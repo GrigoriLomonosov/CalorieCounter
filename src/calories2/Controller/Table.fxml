@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root fx:id="tableview" type="TableView" minWidth="-Infinity" prefHeight="200.0" prefWidth="375.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+  <columns>
+    <TableColumn minWidth="10.0" prefWidth="125.0" text="%nameCol" fx:id="nameCol" />
+    <TableColumn minWidth="10.0" prefWidth="50" fx:id="amountCol" />
+    <TableColumn minWidth="10.0" prefWidth="50.0" text="%calCol" fx:id="calCol" />
+    <TableColumn minWidth="10.0" prefWidth="50.0" text="%carbsCol" fx:id="carbsCol" />
+    <TableColumn minWidth="10.0" prefWidth="50.0" text="%protCol" fx:id="protCol" />
+    <TableColumn minWidth="10.0" prefWidth="50.0" text="%fatCol" fx:id="fatCol" />
+  </columns>
+</fx:root>

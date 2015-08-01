@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import calories2.Model.*?>
+<?import calories2.Controller.*?>
+<?import calories2.View.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="calories2.View.StartView">
+    <fx:define>
+        <Model fx:id="model"/>
+    </fx:define>
+    <children>
+      <HBox prefHeight="50.0" prefWidth="325.0">
+         <children>
+            <TextField fx:id="searchField" promptText="%searchPrompt" prefHeight="25.0">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </HBox.margin>
+            </TextField>
+            <Button fx:id="searchBtn" onAction="#handleSearch" maxHeight="-Infinity" minHeight="-Infinity" mnemonicParsing="false" prefHeight="25.0" text="%searchBtn">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </HBox.margin>
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+            </Button>
+         </children>
+      </HBox>
+      <HBox prefHeight="275.0" prefWidth="750.0">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="375.0">
+               <children>
+                  <Label prefHeight="25.0" prefWidth="150.0" text="%searchResultsLabel">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </Label>
+                  <SearchResultTable model="$model" fx:id="searchResults"/>
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="375.0">
+               <children>
+                  <Label prefHeight="25.0" prefWidth="150.0" text="%selectedFoodsLabel">
+                     <VBox.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </VBox.margin>
+                  </Label>
+                  <SelectionTable model="$model" fx:id="selectedFoods"/>
+                  <ToolBar prefHeight="40.0" prefWidth="200.0">
+                    <items>
+                        <Button fx:id="clearBtn" onAction="#handleClear" disable="true" mnemonicParsing="false" text="%clearBtn" />
+                        <Button fx:id="deleteBtn" onAction="#handleDelete" layoutX="10.0" layoutY="11.0" mnemonicParsing="false" text="%deleteBtn" />
+                        <Button fx:id="calcBtn" layoutX="20.0" onAction="#handleCalculate" disable="true" layoutY="21.0" mnemonicParsing="false" text="%calculateBtn" />
+                    </items>
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                  </ToolBar>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <HBox prefHeight="275.0" prefWidth="750.0">
+         <children>
+            <VBox prefHeight="200.0" prefWidth="275.0">
+               <children>
+                  <HBox prefHeight="50.0" prefWidth="200.0">
+                     <children>
+                        <Label prefHeight="25.0" prefWidth="100.0" text="%ageLabel">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </Label>
+                        <NumberTextField fx:id="ageField" maxWidth="-Infinity" prefWidth="70.0" promptText="%ageFieldPrompt">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </NumberTextField>
+                     </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="10.0" prefHeight="50.0" prefWidth="200.0">
+                     <children>
+                        <Label prefHeight="25.0" prefWidth="100.0" text="%weightLabel">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </Label>
+                        <NumberTextField fx:id="weightField" promptText="%weightFieldPrompt" maxWidth="-Infinity" prefWidth="70.0">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </NumberTextField>
+                     </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="50.0" prefHeight="50.0" prefWidth="200.0">
+                     <children>
+                        <Label prefHeight="25.0" prefWidth="100.0" text="%heightLabel">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </Label>
+                        <NumberTextField fx:id="heightField" promptText="%heightFieldPrompt" maxWidth="-Infinity" prefWidth="70.0">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </NumberTextField>
+                     </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="90.0" prefHeight="50.0" prefWidth="200.0">
+                     <children>
+                        <Label prefHeight="25.0" prefWidth="100.0" text="%paLabel">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </Label>
+                        <ChoiceBox fx:id="paChoice" prefWidth="145.0">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </ChoiceBox>
+                     </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="130.0" prefHeight="50.0" prefWidth="200.0">
+                     <children>
+                        <Label prefHeight="25.0" prefWidth="100.0" text="%sexLabel">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </Label>
+                        <ChoiceBox fx:id="sexChoice" prefWidth="100.0">
+                           <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </ChoiceBox>
+                     </children>
+                  </HBox>
+                  <HBox layoutX="10.0" layoutY="130.0" prefHeight="25.0" prefWidth="200.0">
+                     <children>
+                        <Button fx:id="makePerson" onAction="#handleMakePerson" disable="true" mnemonicParsing="false" text="%makePersonBtn" >
+                            <HBox.margin>
+                              <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                           </HBox.margin>
+                        </Button>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+            <VBox prefHeight="200.0" prefWidth="475.0">
+               <children>
+                    <TotalCal model="$model" fx:id="totalCal"/>
+                    <TotalCarbs model="$model" fx:id="totalCarbs"/>
+                    <TotalProt model="$model" fx:id="totalProt"/>
+                    <TotalFat model="$model" fx:id="totalFat"/>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</VBox>

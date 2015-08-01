@@ -1,0 +1,934 @@
+aalbessen                  	/	   100gr      	/	24.00	/	1.00	/	5.00	/	.00	   
+aardappelen                	/	   100gr      	/	85.00	/	2.60	/	18.60	/	.00	   
+aardappelkroketten         	/	   100gr      	/	356.00	/	34.00	/	28.20	/	12.00	   
+aardappelpuree             	/	   100gr      	/	100.00	/	2.80	/	11.00	/	5.00	   
+aardappelsoesje            	/	   100gr      	/	188.00	/	5.30	/	16.40	/	11.20	   
+aardappelzetmeel           	/	   100gr      	/	337.00	/	.50	/	83.80	/	.10	   
+aardbeien                  	/	   100gr      	/	24.00	/	1.00	/	5.00	/	.00	   
+abrikoos                   	/	     1stuk    	/	20.00	/	.00	/	5.00	/	.00	   
+achterham                  	/	   100gr      	/	130.00	/	18.00	/	1.00	/	6.00	   
+all bran                   	/	   100gr      	/	267.00	/	14.00	/	46.00	/	3.00	   
+amandelbroodje             	/	   100gr      	/	463.00	/	7.60	/	43.00	/	28.90	   
+amandelen                  	/	   100gr      	/	578.00	/	18.30	/	4.30	/	54.20	   
+americain                  	/	   100gr      	/	125.00	/	20.00	/	.00	/	5.00	   
+americain prepare          	/	   100gr      	/	244.00	/	16.00	/	.00	/	20.00	   
+amsoi (gekookt)            	/	   100gr      	/	28.00	/	2.00	/	5.00	/	.00	   
+ananas                     	/	   100gr      	/	88.00	/	.00	/	22.00	/	.00	   
+andijvie                   	/	   100gr      	/	17.00	/	1.80	/	2.10	/	.20	   
+anijshagel                 	/	   100gr      	/	393.00	/	.10	/	98.20	/	.00	   
+ansjovis in olie           	/	   100gr      	/	189.00	/	18.00	/	.00	/	13.00	   
+appel                      	/	     1stuk    	/	60.00	/	1.00	/	14.00	/	.00	   
+appelbeignet               	/	   100gr      	/	190.00	/	2.60	/	18.60	/	11.70	   
+appelcarre                 	/	   100gr      	/	318.00	/	3.70	/	38.60	/	16.60	   
+appelflap                  	/	     1stuk    	/	146.00	/	2.00	/	12.00	/	10.00	   
+appelmoes                  	/	   100gr      	/	76.00	/	.00	/	19.00	/	.00	   
+appelstroop                	/	     1eetlpl  	/	44.00	/	.00	/	11.00	/	.00	   
+appeltaart                 	/	   100gr      	/	234.00	/	3.60	/	38.60	/	7.20	   
+aquarius                   	/	     1blikje  	/	95.00	/	.00	/	23.70	/	.00	   
+artisjok                   	/	   100gr      	/	59.00	/	2.40	/	12.20	/	.10	   
+asperges                   	/	   100gr      	/	16.00	/	1.00	/	3.00	/	.00	   
+atjar tjampoer             	/	   100gr      	/	24.00	/	1.00	/	5.00	/	.00	   
+aubergine                  	/	   100gr      	/	24.00	/	1.00	/	5.00	/	.00	   
+augurken                   	/	   100gr      	/	18.00	/	.90	/	3.60	/	.00	   
+avocado                    	/	     1stuk    	/	226.00	/	4.00	/	12.00	/	18.00	   
+babi pangang               	/	   100gr      	/	217.00	/	13.60	/	3.90	/	16.40	   
+babybel bonbel             	/	   100gr      	/	314.00	/	22.60	/	.10	/	24.80	   
+bacon                      	/	   100gr      	/	430.00	/	13.00	/	.00	/	42.00	   
+bak- en braadvet           	/	   100gr      	/	876.00	/	.30	/	.00	/	97.30	   
+bakbokking                 	/	   100gr      	/	334.00	/	21.60	/	3.00	/	26.20	   
+baklava                    	/	   100gr      	/	435.00	/	4.20	/	53.70	/	22.70	   
+balisto                    	/	     1stuk    	/	223.00	/	4.00	/	27.00	/	11.00	   
+bambix                     	/	   100gr      	/	344.00	/	9.50	/	72.00	/	2.00	   
+bamboespruiten             	/	   100gr      	/	32.00	/	2.00	/	6.00	/	.00	   
+bami goreng                	/	   100gr      	/	145.00	/	6.00	/	19.00	/	5.00	   
+bamibal                    	/	   100gr      	/	274.00	/	7.00	/	30.00	/	14.00	   
+banaan                     	/	     1stuk    	/	124.00	/	1.00	/	30.00	/	.00	   
+banketbakkersroom          	/	   100gr      	/	145.00	/	3.90	/	23.20	/	4.10	   
+banketstaaf                	/	   100gr      	/	462.00	/	7.60	/	43.00	/	28.90	   
+barbecuesaus               	/	   100gr      	/	92.00	/	1.00	/	22.00	/	.00	   
+basterdsuiker              	/	   100gr      	/	380.00	/	.00	/	95.00	/	.00	   
+bayonne-ham                	/	   100gr      	/	259.00	/	24.00	/	.20	/	18.00	   
+berehap - bereklauw        	/	   100gr      	/	252.00	/	9.70	/	9.40	/	19.50	   
+berlinerbol                	/	   100gr      	/	386.00	/	5.50	/	39.10	/	23.10	   
+beschuit                   	/	   100gr      	/	379.00	/	9.90	/	75.50	/	4.20	   
+bichoc delacre             	/	   100gr      	/	465.00	/	5.30	/	72.50	/	17.10	   
+bieflap                    	/	   100gr      	/	168.00	/	27.80	/	.80	/	6.00	   
+biefstuk                   	/	   100gr      	/	115.00	/	22.00	/	.00	/	3.00	   
+bierworstje - bifiworstje  	/	   100gr      	/	402.00	/	19.10	/	.90	/	35.80	   
+bieslook                   	/	   100gr      	/	57.00	/	4.00	/	8.00	/	1.00	   
+bieten                     	/	   100gr      	/	20.00	/	2.00	/	3.00	/	.00	   
+big mac                    	/	     1stuk    	/	572.00	/	26.00	/	45.00	/	32.00	   
+biogarde mager             	/	   100gr      	/	33.00	/	4.00	/	4.00	/	.10	   
+biogarde natuur            	/	   100gr      	/	57.00	/	4.60	/	6.30	/	1.50	   
+biogarde vol               	/	   100gr      	/	56.00	/	3.40	/	3.50	/	3.20	   
+biogarde (halfvol)         	/	   100gr      	/	50.00	/	4.30	/	4.70	/	1.50	   
+bisc & bounty              	/	   100gr      	/	539.00	/	4.90	/	55.90	/	32.90	   
+bisc & mars                	/	   100gr      	/	523.00	/	5.30	/	61.40	/	28.50	   
+bisc & snickers            	/	   100gr      	/	536.00	/	7.80	/	53.00	/	32.50	   
+bisc & twix                	/	   100gr      	/	518.00	/	5.40	/	61.60	/	27.80	   
+biscuitje (groot)          	/	   100gr      	/	432.00	/	8.80	/	76.70	/	10.10	   
+bitterbal                  	/	   100gr      	/	232.00	/	10.70	/	16.90	/	13.60	   
+bizonsteak                 	/	   100gr      	/	101.00	/	23.00	/	.00	/	1.00	   
+bladerdeeg                 	/	   100gr      	/	390.00	/	7.00	/	41.00	/	22.00	   
+bleekselderij              	/	   100gr      	/	24.00	/	2.00	/	4.00	/	.00	   
+blinde vink                	/	   100gr      	/	189.00	/	25.60	/	1.20	/	9.10	   
+bloem                      	/	   100gr      	/	333.00	/	11.00	/	70.00	/	1.00	   
+bloemkool                  	/	   100gr      	/	20.00	/	2.00	/	3.00	/	.00	   
+blue                       	/	   100gr      	/	353.00	/	21.10	/	.00	/	29.80	   
+bluefort                   	/	   100gr      	/	354.00	/	20.00	/	1.00	/	30.00	   
+boerenkool                 	/	   100gr      	/	41.00	/	4.00	/	4.00	/	1.00	   
+boerenkoolstamppot         	/	   100gr      	/	89.00	/	2.70	/	10.70	/	3.90	   
+boerenpate                 	/	   100gr      	/	308.00	/	15.00	/	2.50	/	26.40	   
+bokkepoot                  	/	   100gr      	/	446.00	/	16.00	/	55.00	/	18.00	   
+bokking (gerookt)          	/	   100gr      	/	236.00	/	23.00	/	.00	/	16.00	   
+bokking (gestoomd)         	/	   100gr      	/	233.00	/	21.20	/	.50	/	16.20	   
+bonbon                     	/	   100gr      	/	409.00	/	4.50	/	62.80	/	15.60	   
+bonbon (met likeur)        	/	   100gr      	/	351.00	/	3.00	/	42.20	/	18.90	   
+bonen                      	/	   100gr      	/	266.00	/	20.00	/	43.00	/	1.50	   
+borrelnootjes              	/	   100gr      	/	518.00	/	15.00	/	45.00	/	31.00	   
+borstplaat (room)          	/	   100gr      	/	328.00	/	.80	/	72.20	/	4.10	   
+borstplaat (water)         	/	   100gr      	/	380.00	/	.00	/	95.00	/	.00	   
+bosbessen                  	/	   100gr      	/	35.00	/	.30	/	7.40	/	.50	   
+bosbessen op siroop        	/	   100gr      	/	128.00	/	1.00	/	31.00	/	.00	   
+bossche bol                	/	   100gr      	/	349.00	/	4.50	/	21.00	/	27.40	   
+boter                      	/	    10gr      	/	75.00	/	.10	/	.10	/	8.20	   
+boter (gezouten)           	/	   100gr      	/	761.00	/	.90	/	.00	/	84.20	   
+boterhamworst              	/	   100gr      	/	335.00	/	12.00	/	4.00	/	30.00	   
+boterkoek                  	/	   100gr      	/	515.00	/	4.00	/	55.00	/	31.00	   
+boterletter                	/	   100gr      	/	461.00	/	7.60	/	43.00	/	28.90	   
+boter (halfvol)            	/	   100gr      	/	390.00	/	6.30	/	.30	/	40.50	   
+boter (ongezouten)         	/	   100gr      	/	763.00	/	4.20	/	1.10	/	82.50	   
+boudoir                    	/	   100gr      	/	395.00	/	7.40	/	84.00	/	3.30	   
+bounty                     	/	     1stuk    	/	243.00	/	3.00	/	24.00	/	15.00	   
+boursin                    	/	   100gr      	/	418.00	/	10.00	/	1.00	/	41.50	   
+braadharing                	/	   100gr      	/	219.00	/	17.00	/	4.00	/	15.00	   
+braadworst (varken)        	/	   100gr      	/	308.00	/	22.20	/	.90	/	24.00	   
+braambessen                	/	   100gr      	/	38.00	/	1.20	/	7.20	/	.50	   
+brado                      	/	   100gr      	/	236.00	/	23.00	/	.00	/	16.00	   
+bramen                     	/	   100gr      	/	37.00	/	1.00	/	6.00	/	1.00	   
+bran buds                  	/	   100gr      	/	100.00	/	3.60	/	18.90	/	1.10	   
+bressot                    	/	   100gr      	/	332.00	/	8.50	/	1.00	/	32.70	   
+brie (50+)                 	/	   100gr      	/	317.00	/	22.00	/	1.00	/	25.00	   
+brie (60+)                 	/	   100gr      	/	365.00	/	17.00	/	.00	/	33.00	   
+brinta                     	/	   100gr      	/	366.00	/	12.00	/	74.00	/	2.50	   
+broccoli                   	/	   100gr      	/	20.00	/	2.00	/	3.00	/	.00	   
+brood (volkoren)           	/	   100gr      	/	208.00	/	5.70	/	40.00	/	2.80	   
+brood (wit)                	/	   100gr      	/	226.00	/	6.50	/	50.00	/	.00	   
+broodje (bruin)            	/	   100gr      	/	250.00	/	9.50	/	45.10	/	3.50	   
+broodje (gemiddeld)        	/	   100gr      	/	240.00	/	8.70	/	45.80	/	2.50	   
+broodje (luxe wit)         	/	   100gr      	/	294.00	/	9.30	/	53.10	/	5.00	   
+broodje (meergranen)       	/	   100gr      	/	212.00	/	8.40	/	40.50	/	1.80	   
+broodje (muesli)           	/	   100gr      	/	273.00	/	8.10	/	52.30	/	3.50	   
+broodje (tarwe)            	/	   100gr      	/	250.00	/	9.50	/	45.10	/	3.50	   
+broodje (volkoren)         	/	   100gr      	/	211.00	/	8.40	/	40.50	/	1.80	   
+broodje (wit)              	/	   100gr      	/	259.00	/	8.10	/	52.00	/	2.10	   
+brood (gemiddeld)          	/	   100gr      	/	240.00	/	8.70	/	45.80	/	2.50	   
+bruinbrood                 	/	   100gr      	/	250.00	/	9.50	/	45.10	/	3.50	   
+bruine bonensoep           	/	   100gr      	/	46.00	/	3.50	/	7.50	/	.30	   
+bulgaarse yoghurt (fruit)  	/	   100gr      	/	124.00	/	5.00	/	17.00	/	4.00	   
+bulgaarse yoghurt (mager)  	/	   100gr      	/	48.00	/	5.00	/	6.00	/	.50	   
+bulgaarse yoghurt (vol)    	/	   100gr      	/	89.00	/	4.80	/	7.00	/	4.70	   
+cake                       	/	   100gr      	/	446.00	/	6.90	/	44.80	/	26.60	   
+camembert (45+)            	/	   100gr      	/	284.00	/	25.00	/	1.00	/	20.00	   
+camembert (50+)            	/	   100gr      	/	314.00	/	18.00	/	2.00	/	26.00	   
+candybar                   	/	   100gr      	/	478.00	/	5.90	/	63.20	/	22.40	   
+cantadou                   	/	   100gr      	/	328.00	/	6.00	/	3.50	/	32.30	   
+carre confiture            	/	   100gr      	/	401.00	/	3.40	/	50.00	/	20.80	   
+cashew-noten               	/	   100gr      	/	578.00	/	18.00	/	32.00	/	42.00	   
+casselerrib                	/	   100gr      	/	183.00	/	18.00	/	3.00	/	11.00	   
+cervela                    	/	   100gr      	/	387.00	/	18.00	/	.00	/	35.00	   
+champignons                	/	   100gr      	/	16.00	/	3.00	/	1.00	/	.00	   
+chavroux                   	/	   100gr      	/	173.00	/	10.00	/	4.00	/	13.00	   
+cheddar                    	/	   100gr      	/	401.00	/	26.00	/	.00	/	33.00	   
+cheeseburger               	/	   100gr      	/	263.00	/	15.00	/	18.50	/	14.30	   
+chili con carne            	/	   100gr      	/	145.00	/	8.70	/	8.00	/	8.70	   
+chinese kool               	/	   100gr      	/	12.00	/	1.20	/	1.20	/	.30	   
+chipolatapudding           	/	   100gr      	/	225.00	/	4.30	/	24.10	/	12.40	   
+chips (light)              	/	   100gr      	/	502.00	/	6.00	/	61.00	/	26.00	   
+chips (naturel)            	/	   100gr      	/	544.00	/	6.00	/	49.00	/	36.00	   
+choco (kwatta)             	/	   100gr      	/	362.00	/	1.90	/	71.50	/	7.60	   
+chocolade (melk)           	/	   100gr      	/	518.00	/	6.60	/	54.70	/	30.30	   
+chocolade (melk)           	/	   100gr      	/	528.00	/	8.00	/	52.00	/	32.00	   
+chocolade (met noten)      	/	   100gr      	/	608.00	/	10.30	/	30.00	/	49.60	   
+chocolade (puur)           	/	   100gr      	/	507.00	/	5.00	/	51.00	/	31.50	   
+chocolade (puur)           	/	   100gr      	/	512.00	/	4.00	/	52.00	/	32.00	   
+chocoladebiscuit           	/	   100gr      	/	470.00	/	6.90	/	63.80	/	20.80	   
+chocoladehagelslag         	/	   100gr      	/	431.00	/	6.10	/	63.60	/	16.90	   
+chocoladekorrels           	/	   100gr      	/	437.00	/	6.50	/	63.50	/	17.50	   
+chocolademelk (halfvol)    	/	   100gr      	/	84.00	/	3.70	/	13.30	/	1.80	   
+chocolademelk (mager)      	/	   100gr      	/	58.00	/	3.60	/	10.40	/	.30	   
+chocolademelk (vol)        	/	   100gr      	/	79.00	/	3.40	/	11.10	/	2.40	   
+chocolademousse            	/	   100gr      	/	252.00	/	2.50	/	26.30	/	15.20	   
+chocoladepasta             	/	   100gr      	/	578.00	/	3.00	/	56.00	/	38.00	   
+chocoladepudding           	/	   100gr      	/	125.00	/	4.00	/	20.00	/	3.20	   
+chocoladesaus              	/	   100gr      	/	254.00	/	2.00	/	57.00	/	2.00	   
+chocoladevla (mager)       	/	   100gr      	/	77.00	/	3.30	/	15.50	/	.20	   
+chocoladevla (vol)         	/	   100gr      	/	86.00	/	3.30	/	12.50	/	2.60	   
+chocoladevlokken (melk)    	/	   100gr      	/	446.00	/	8.00	/	63.00	/	18.00	   
+chocoladevlokken (puur)    	/	   100gr      	/	429.00	/	5.00	/	64.00	/	17.00	   
+chocomousse (danone)       	/	   100gr      	/	91.00	/	2.10	/	12.20	/	3.70	   
+chocoprince                	/	   100gr      	/	482.00	/	5.60	/	67.50	/	21.10	   
+citroen                    	/	     1stuk    	/	10.00	/	.00	/	2.50	/	.00	   
+cocktailsaus               	/	   100gr      	/	264.00	/	1.00	/	11.00	/	24.00	   
+confiture                  	/	   100gr      	/	262.00	/	.50	/	65.00	/	.00	   
+corned beef                	/	   100gr      	/	289.00	/	16.00	/	.00	/	25.00	   
+cornetto                   	/	     1stuk    	/	262.00	/	3.50	/	26.00	/	16.00	   
+cornflakes                 	/	   100gr      	/	381.00	/	8.50	/	84.00	/	1.20	   
+cottage cheese             	/	   100gr      	/	93.00	/	11.20	/	3.20	/	3.90	   
+courgette                  	/	   100gr      	/	6.00	/	.50	/	1.00	/	.00	   
+couscous                   	/	   100gr      	/	133.00	/	4.40	/	28.00	/	.40	   
+cracotte                   	/	   100gr      	/	477.00	/	11.00	/	97.00	/	5.00	   
+cranberriecompote          	/	   100gr      	/	81.00	/	.00	/	20.30	/	.00	   
+cream cracker              	/	   100gr      	/	465.00	/	8.00	/	70.00	/	17.00	   
+creme fraiche              	/	   100gr      	/	344.00	/	2.20	/	3.00	/	35.90	   
+cremetaart                 	/	   100gr      	/	477.00	/	5.00	/	40.00	/	33.00	   
+croissant                  	/	     1stuk    	/	130.00	/	4.00	/	24.00	/	2.00	   
+cruesli                    	/	   100gr      	/	389.00	/	10.60	/	68.30	/	8.20	   
+curryketchup               	/	   100gr      	/	104.00	/	.90	/	25.30	/	.00	   
+custardpoeder              	/	   100gr      	/	340.00	/	.00	/	85.00	/	.00	   
+dadels (vers)              	/	   100gr      	/	165.00	/	2.00	/	37.00	/	1.00	   
+dadels (geconfijt)         	/	   100gr      	/	300.00	/	2.00	/	73.00	/	.00	   
+danette chocolade          	/	   100gr      	/	148.00	/	4.90	/	21.20	/	4.80	   
+danette vanille            	/	   100gr      	/	124.00	/	4.70	/	16.90	/	4.20	   
+danish blue                	/	   100gr      	/	353.00	/	20.00	/	1.00	/	30.00	   
+dextro-energie (tablet)    	/	   100gr      	/	364.00	/	.00	/	91.00	/	.00	   
+djoez                      	/	   100gr      	/	51.00	/	.90	/	11.80	/	.10	   
+donut                      	/	   100gr      	/	413.00	/	6.20	/	34.60	/	27.80	   
+doperwten                  	/	   100gr      	/	60.00	/	5.00	/	10.00	/	.00	   
+doperwten en wortelen      	/	   100gr      	/	36.00	/	3.30	/	5.80	/	.00	   
+dorade                     	/	   100gr      	/	106.00	/	17.50	/	.00	/	4.00	   
+doritos nacho cheese       	/	   100gr      	/	526.00	/	6.00	/	58.00	/	30.00	   
+drinkyoghurt               	/	   100gr      	/	59.00	/	3.00	/	11.30	/	.20	   
+drop (engelse)             	/	   100gr      	/	362.00	/	4.00	/	82.00	/	2.00	   
+drop (gemiddeld)           	/	   100gr      	/	309.00	/	4.30	/	73.00	/	.00	   
+drop (zoet)                	/	   100gr      	/	348.00	/	10.00	/	77.00	/	.00	   
+drop (zout)                	/	   100gr      	/	336.00	/	9.00	/	75.00	/	.00	   
+druiven                    	/	   100gr      	/	66.00	/	.50	/	16.00	/	.00	   
+dubbeldrank                	/	   100gr      	/	52.00	/	.30	/	12.80	/	.00	   
+edammer                    	/	   100gr      	/	314.00	/	28.00	/	1.00	/	22.00	   
+eend                       	/	   100gr      	/	217.00	/	18.30	/	.00	/	16.00	   
+eendenfilet                	/	   100gr      	/	341.00	/	20.00	/	.00	/	29.00	   
+ei                         	/	     1stuk    	/	82.00	/	7.00	/	.00	/	6.00	   
+ei-eiwit                   	/	     1stuk    	/	16.00	/	4.00	/	.00	/	.00	   
+eierkoek                   	/	     1stuk    	/	85.00	/	1.00	/	18.00	/	1.00	   
+eiersalade                 	/	   100gr      	/	246.00	/	6.40	/	8.30	/	20.90	   
+emmental                   	/	   100gr      	/	390.00	/	27.00	/	3.00	/	30.00	   
+entrecote                  	/	   100gr      	/	189.00	/	25.60	/	1.20	/	9.10	   
+erwten                     	/	   100gr      	/	81.00	/	6.50	/	12.60	/	.50	   
+erwten & wortelen          	/	   100gr      	/	45.00	/	3.00	/	7.30	/	.40	   
+evergreen                  	/	     1stuk    	/	73.00	/	2.00	/	13.00	/	1.50	   
+evergreen (krenten)        	/	   100gr      	/	373.00	/	9.00	/	73.00	/	5.00	   
+extran eiwitdrank          	/	   100gr      	/	98.00	/	12.50	/	11.50	/	.30	   
+extran energiedrank        	/	   100gr      	/	160.00	/	.00	/	40.00	/	.00	   
+extran energiereep m. muesl	/	i  100gr      	/	367.00	/	5.60	/	76.00	/	4.50	   
+extran hypotone dorstlesser	/	   100gr      	/	16.00	/	.00	/	4.10	/	.00	   
+feta                       	/	   100gr      	/	248.00	/	15.60	/	1.50	/	20.00	   
+filet americain            	/	   100gr      	/	161.00	/	18.50	/	2.20	/	8.70	   
+filet d'anvers             	/	   100gr      	/	158.00	/	26.00	/	.00	/	6.00	   
+filet de york              	/	   100gr      	/	146.00	/	22.00	/	1.00	/	6.00	   
+fishsticks                 	/	   100gr      	/	228.00	/	18.00	/	12.00	/	12.00	   
+flantaart                  	/	   100gr      	/	227.00	/	6.00	/	31.50	/	8.50	   
+flensje                    	/	   100gr      	/	157.00	/	6.40	/	18.40	/	6.50	   
+foe yung hai               	/	   100gr      	/	127.00	/	5.70	/	7.70	/	8.20	   
+forel                      	/	   100gr      	/	99.00	/	18.00	/	.00	/	3.00	   
+frambozen                  	/	   100gr      	/	30.00	/	1.30	/	5.60	/	.30	   
+frambozen op siroop        	/	   100gr      	/	92.00	/	.00	/	23.00	/	.00	   
+frangipane                 	/	   100gr      	/	478.00	/	5.00	/	65.00	/	22.00	   
+fricandeau (varkens)       	/	   100gr      	/	151.00	/	31.20	/	.00	/	2.90	   
+friese nagelkaas 20+       	/	   100gr      	/	269.00	/	38.00	/	.00	/	13.00	   
+friese nagelkaas 40+       	/	   100gr      	/	327.00	/	25.50	/	.10	/	25.00	   
+frieten                    	/	   100gr      	/	456.00	/	40.00	/	38.00	/	16.00	   
+frikadel                   	/	   100gr      	/	257.00	/	13.00	/	8.10	/	19.20	   
+frikadelsaus               	/	   100gr      	/	231.00	/	1.00	/	23.00	/	15.00	   
+fritessaus (25% olie)      	/	   100gr      	/	282.00	/	.50	/	11.60	/	26.00	   
+fritessaus. 35% olie       	/	   100gr      	/	372.00	/	.00	/	12.00	/	36.00	   
+frituurvet                 	/	   100gr      	/	898.00	/	.10	/	.30	/	99.70	   
+frituurvet (vloeibaar)     	/	   100gr      	/	900.00	/	.00	/	.00	/	100.00	   
+fruitcoctail               	/	   100gr      	/	68.00	/	.00	/	17.00	/	.00	   
+fruitsap ( sinas )         	/	    25cl      	/	122.00	/	2.00	/	28.50	/	.00	   
+gado gado                  	/	   100gr      	/	173.00	/	7.20	/	7.80	/	12.60	   
+galette                    	/	   100gr      	/	530.00	/	6.70	/	65.00	/	27.00	   
+gamba                      	/	   100gr      	/	137.00	/	18.50	/	.00	/	7.00	   
+gans                       	/	   100gr      	/	350.00	/	15.60	/	.00	/	32.00	   
+ganzelever                 	/	   100gr      	/	462.00	/	7.00	/	6.00	/	45.60	   
+garderoom                  	/	   100gr      	/	253.00	/	3.00	/	4.00	/	25.00	   
+garnalen                   	/	   100gr      	/	90.00	/	18.00	/	.00	/	2.00	   
+gebonden soep              	/	   100gr      	/	37.00	/	2.20	/	.90	/	2.70	   
+gebraden gehakt            	/	   100gr      	/	342.00	/	15.00	/	3.00	/	30.00	   
+gehakt-tomatensaus         	/	   100gr      	/	138.00	/	11.70	/	1.10	/	9.70	   
+gehakt (gemengd)           	/	   100gr      	/	348.00	/	15.00	/	.00	/	32.00	   
+geitekaas                  	/	   100gr      	/	205.00	/	13.00	/	.00	/	17.00	   
+geitemelk                  	/	   100gr      	/	70.00	/	3.40	/	4.40	/	4.30	   
+gekookte worst             	/	   100gr      	/	380.00	/	12.00	/	2.00	/	36.00	   
+gelatine                   	/	   100gr      	/	235.00	/	43.00	/	.00	/	7.00	   
+gember op siroop           	/	   100gr      	/	276.00	/	.00	/	69.00	/	.00	   
+geraspte kaas (volvet)     	/	   100gr      	/	385.00	/	24.90	/	.40	/	31.50	   
+gestampte muisjes          	/	   100gr      	/	389.00	/	.00	/	95.00	/	1.00	   
+gevogeltegehakt            	/	   100gr      	/	171.00	/	20.20	/	.00	/	10.00	   
+gevulde koek               	/	   100gr      	/	435.00	/	5.50	/	61.10	/	18.80	   
+gevulde speculaas          	/	   100gr      	/	488.00	/	8.60	/	52.80	/	27.00	   
+gierst                     	/	   100gr      	/	109.00	/	3.60	/	23.10	/	.30	   
+gomasio                    	/	   100gr      	/	524.00	/	21.80	/	5.00	/	46.30	   
+gorgonzola                 	/	   100gr      	/	340.00	/	19.10	/	.20	/	29.20	   
+gouda                      	/	   100gr      	/	366.00	/	25.50	/	.20	/	29.20	   
+goudbrasem                 	/	   100gr      	/	103.00	/	19.00	/	.00	/	3.00	   
+goudse kaas                	/	   100gr      	/	385.00	/	24.90	/	.40	/	31.50	   
+goulash                    	/	   100gr      	/	155.00	/	9.50	/	2.50	/	11.90	   
+granaatappel               	/	   100gr      	/	62.00	/	1.00	/	13.70	/	.30	   
+granny (amandel-abrikoos)  	/	     1stuk    	/	131.00	/	2.10	/	19.20	/	5.10	   
+granny (chocolade)         	/	     1stuk    	/	96.00	/	1.90	/	19.20	/	1.30	   
+grapefruit                 	/	   100gr      	/	30.00	/	.90	/	6.60	/	.00	   
+grapefruit op siroop       	/	   100gr      	/	64.00	/	1.00	/	15.00	/	.00	   
+grapefruitsap              	/	   100gr      	/	30.00	/	.40	/	7.00	/	.10	   
+griekse noedels            	/	   100gr      	/	355.00	/	13.00	/	73.00	/	1.50	   
+groene aalbes              	/	   100gr      	/	40.00	/	.80	/	8.80	/	.20	   
+groene erwten              	/	   100gr      	/	109.00	/	8.40	/	17.20	/	.80	   
+groene kool                	/	   100gr      	/	37.00	/	3.00	/	4.00	/	1.00	   
+groentesaus uit pakje      	/	   100gr      	/	62.00	/	1.70	/	10.60	/	1.40	   
+groentesaus (marg., bloem) 	/	   100gr      	/	90.00	/	2.40	/	7.00	/	5.80	   
+groentespread              	/	   100gr      	/	20.00	/	1.00	/	4.00	/	.00	   
+gruyere                    	/	   100gr      	/	435.00	/	29.00	/	1.00	/	35.00	   
+guave                      	/	   100gr      	/	72.00	/	1.00	/	17.00	/	.00	   
+haas                       	/	   100gr      	/	113.00	/	21.50	/	.00	/	3.00	   
+hachee                     	/	   100gr      	/	89.00	/	6.80	/	2.80	/	5.60	   
+hagelslag melk             	/	   100gr      	/	427.00	/	6.50	/	66.40	/	15.10	   
+hagelslag puur             	/	   100gr      	/	403.00	/	3.40	/	59.90	/	16.70	   
+halfvolle koffiemelk       	/	   100ml      	/	100.00	/	6.30	/	9.80	/	4.00	   
+halvarine                  	/	   100gr      	/	360.00	/	.00	/	.00	/	40.00	   
+halvarineprodukt (-40%)    	/	   100gr      	/	259.00	/	2.70	/	2.20	/	26.70	   
+ham-kaassaus               	/	   100gr      	/	174.00	/	10.20	/	6.20	/	12.00	   
+ham (rauw, gerookt)        	/	   100gr      	/	369.00	/	18.00	/	.00	/	33.00	   
+hamburger                  	/	     1stuk    	/	216.00	/	11.00	/	7.00	/	16.00	   
+hamburger m. broodje & ui  	/	   100gr      	/	300.00	/	13.00	/	26.00	/	16.00	   
+hamlappen                  	/	   100gr      	/	182.00	/	31.30	/	.00	/	6.30	   
+hangop                     	/	   100gr      	/	63.00	/	10.00	/	3.50	/	1.00	   
+haring                     	/	   100gr      	/	297.00	/	18.00	/	.00	/	25.00	   
+haring in tomatensaus      	/	   100gr      	/	162.00	/	15.00	/	2.00	/	10.50	   
+haring (gerookt)           	/	   100gr      	/	259.00	/	22.20	/	.00	/	19.00	   
+haring (zoute)             	/	   100gr      	/	168.00	/	19.20	/	.50	/	9.90	   
+haring (zure)              	/	   100gr      	/	208.00	/	16.00	/	.00	/	16.00	   
+hartige taart              	/	   100gr      	/	172.00	/	8.90	/	13.70	/	9.10	   
+hartige taart (bladerdeeg) 	/	   100gr      	/	273.00	/	10.80	/	9.90	/	21.20	   
+hausmacher                 	/	   100gr      	/	325.00	/	16.00	/	.00	/	29.00	   
+haverkoek                  	/	   100gr      	/	344.00	/	8.20	/	53.80	/	10.70	   
+havermout                  	/	   100gr      	/	363.00	/	13.00	/	62.00	/	7.00	   
+havermoutpap               	/	   100gr      	/	74.00	/	3.90	/	7.50	/	3.20	   
+hazelnootpasta             	/	   100gr      	/	538.00	/	7.40	/	59.00	/	30.30	   
+hazelnoten                 	/	   100gr      	/	644.00	/	11.90	/	10.50	/	61.60	   
+heilbot                    	/	   100gr      	/	113.00	/	17.00	/	.00	/	5.00	   
+heldere soep               	/	   100gr      	/	39.00	/	4.00	/	2.30	/	1.50	   
+hoestbonbon                	/	   100gr      	/	396.00	/	.60	/	98.40	/	.00	   
+honing                     	/	     1eetlpl  	/	68.00	/	1.00	/	16.00	/	.00	   
+hopje                      	/	   100gr      	/	380.00	/	.00	/	95.00	/	.00	   
+hot ketchup                	/	   100gr      	/	104.00	/	.90	/	25.30	/	.00	   
+hotdog                     	/	   100gr      	/	295.00	/	9.80	/	37.50	/	11.80	   
+hotdog relish              	/	   100gr      	/	104.00	/	.00	/	26.00	/	.00	   
+hutspot                    	/	   100gr      	/	62.00	/	1.50	/	8.20	/	2.60	   
+huttenkase                 	/	   100gr      	/	93.00	/	11.60	/	1.90	/	4.30	   
+huzarenslaatje             	/	   100gr      	/	105.00	/	7.90	/	9.00	/	4.20	   
+ijs                        	/	   100gr      	/	186.00	/	3.00	/	19.70	/	10.60	   
+ijs (conotop)              	/	   100gr      	/	246.00	/	6.00	/	24.00	/	14.00	   
+ijs (met chocolade)        	/	   100gr      	/	218.00	/	3.20	/	22.80	/	12.70	   
+ijs (room)                 	/	   100gr      	/	181.00	/	3.00	/	22.00	/	9.10	   
+ijs (sorbet)               	/	   100gr      	/	106.00	/	.50	/	26.00	/	.00	   
+ijs (yoghurt)              	/	   100gr      	/	107.00	/	4.00	/	16.00	/	3.00	   
+ijscoupe met likeur        	/	   100gr      	/	164.00	/	2.30	/	21.20	/	7.80	   
+ijslolly - waterijs        	/	   100gr      	/	73.00	/	.00	/	18.20	/	.00	   
+ijswafeltje (koekje)       	/	   100gr      	/	433.00	/	8.80	/	76.70	/	10.10	   
+irish coffee               	/	   100gr      	/	108.00	/	.60	/	5.20	/	9.40	   
+isostar energiedrank       	/	   100gr      	/	28.00	/	.00	/	7.00	/	.00	   
+jachtschotel               	/	   100gr      	/	101.00	/	5.00	/	9.00	/	5.00	   
+jam  (marmelade)           	/	   100gr      	/	240.00	/	.20	/	60.00	/	.00	   
+jam (halva en light)       	/	   100gr      	/	112.00	/	.00	/	28.00	/	.00	   
+japanse mix                	/	   100gr      	/	362.00	/	8.00	/	73.70	/	3.90	   
+kaas 20+                   	/	   100gr      	/	269.00	/	38.00	/	.00	/	13.00	   
+kaas 40+                   	/	   100gr      	/	327.00	/	25.50	/	.10	/	25.00	   
+kaas ( trenta )            	/	   100gr      	/	370.00	/	25.00	/	.00	/	30.00	   
+kaas (edammer)             	/	   100gr      	/	368.00	/	25.00	/	4.00	/	28.00	   
+kaas (gouda)               	/	   100gr      	/	385.00	/	26.00	/	5.00	/	29.00	   
+kaas (light)               	/	   100gr      	/	154.00	/	14.50	/	5.00	/	8.50	   
+kaas (parmezaan)           	/	   100gr      	/	411.00	/	40.00	/	2.00	/	27.00	   
+kaas (volvet)              	/	   100gr      	/	384.00	/	24.90	/	.40	/	31.50	   
+kaasprodukt 30+            	/	   100gr      	/	283.00	/	31.70	/	1.00	/	17.00	   
+kaasprodukt (volvet)       	/	   100gr      	/	370.00	/	25.00	/	.00	/	30.00	   
+kaassoesje                 	/	   100gr      	/	334.00	/	12.00	/	9.00	/	27.80	   
+kaaswafel                  	/	   100gr      	/	565.00	/	14.30	/	37.40	/	39.90	   
+kabeljauw                  	/	   100gr      	/	76.00	/	18.00	/	.00	/	.50	   
+kaki                       	/	   100gr      	/	66.00	/	.50	/	16.00	/	.00	   
+kalfsentrecote             	/	   100gr      	/	189.00	/	25.60	/	1.20	/	9.10	   
+kalfsfricandeau (beleg)    	/	   100gr      	/	156.00	/	31.90	/	.00	/	3.20	   
+kalfsgehakt                	/	   100gr      	/	185.00	/	18.00	/	.00	/	12.50	   
+kalfslapjes                	/	   100gr      	/	102.00	/	21.00	/	.00	/	2.00	   
+kalfslever                 	/	   100gr      	/	185.00	/	28.00	/	2.00	/	7.20	   
+kalfstong                  	/	   100gr      	/	132.00	/	17.50	/	1.00	/	6.50	   
+kalfszwezerik              	/	   100gr      	/	218.00	/	5.00	/	4.60	/	20.00	   
+kalkoen                    	/	   100gr      	/	143.00	/	20.00	/	.00	/	7.00	   
+kalkoenfilet               	/	   100gr      	/	85.00	/	19.00	/	.00	/	1.00	   
+kano                       	/	   100gr      	/	435.00	/	5.50	/	61.10	/	18.80	   
+kapucijners                	/	   100gr      	/	106.00	/	8.00	/	17.20	/	.60	   
+karbonade (haas)           	/	   100gr      	/	156.00	/	26.00	/	.00	/	5.80	   
+karbonade (hals)           	/	   100gr      	/	272.00	/	27.60	/	.00	/	18.00	   
+karbonade (rib)            	/	   100gr      	/	211.00	/	28.30	/	.50	/	10.70	   
+karbonade (schouder)       	/	   100gr      	/	272.00	/	27.60	/	.00	/	18.00	   
+karnemelk                  	/	    25cl      	/	65.00	/	7.50	/	8.80	/	.00	   
+karper                     	/	   100gr      	/	115.00	/	18.00	/	.00	/	4.80	   
+kastanjes                  	/	   100gr      	/	165.00	/	4.00	/	35.00	/	1.00	   
+katenspek                  	/	   100gr      	/	403.00	/	15.20	/	.40	/	37.90	   
+kauwgom                    	/	   100gr      	/	280.00	/	.00	/	70.00	/	.00	   
+kaviaar                    	/	   100gr      	/	244.00	/	26.10	/	.00	/	15.50	   
+kefir                      	/	   100gr      	/	55.00	/	3.10	/	3.80	/	3.00	   
+kellogg's all bran         	/	   100gr      	/	267.00	/	14.00	/	46.00	/	3.00	   
+kellogg's choco pops       	/	   100gr      	/	374.00	/	5.00	/	84.00	/	2.00	   
+kellogg's cornflakes       	/	   100gr      	/	367.00	/	8.00	/	82.00	/	.80	   
+kellogg's frosties         	/	   100gr      	/	377.00	/	5.00	/	88.00	/	.50	   
+kellogg's fruit & fiber    	/	   100gr      	/	357.00	/	9.00	/	69.00	/	5.00	   
+kellogg's muesli           	/	   100gr      	/	362.00	/	10.00	/	67.00	/	6.00	   
+kellogg's raisin bran      	/	   100gr      	/	318.00	/	8.00	/	67.00	/	2.00	   
+kellogg's rice crisp       	/	   10gr      	/	377.00	/	6.00	/	86.00	/	1.00	   
+kellogg's smacks           	/	     1reep    	/	91.00	/	2.00	/	14.00	/	3.00	   
+kellogg's special k        	/	   100gr      	/	369.00	/	14.00	/	76.00	/	1.00	   
+kernhemmer                 	/	   100gr      	/	413.00	/	20.00	/	.00	/	37.00	   
+kerriesaus                 	/	   100gr      	/	278.00	/	.50	/	13.00	/	25.00	   
+kersen                     	/	   100gr      	/	64.00	/	1.00	/	15.00	/	.00	   
+kersen op siroop           	/	   100gr      	/	76.00	/	1.00	/	18.00	/	.00	   
+kersenbonbon               	/	   100gr      	/	350.00	/	3.00	/	42.20	/	18.90	   
+kerstkrans                 	/	   100gr      	/	461.00	/	7.60	/	43.00	/	28.90	   
+kervel                     	/	   100gr      	/	71.00	/	4.00	/	11.50	/	1.00	   
+ketchup                    	/	     1eetlpl  	/	16.00	/	.00	/	4.00	/	.00	   
+ketjap                     	/	     1eetlpl  	/	20.00	/	1.00	/	4.00	/	.00	   
+ketjap asin                	/	   100gr      	/	120.00	/	12.00	/	18.00	/	.00	   
+ketjap manis               	/	   100gr      	/	136.00	/	10.00	/	24.00	/	.00	   
+kidney beans               	/	   100gr      	/	95.00	/	7.10	/	15.20	/	.70	   
+kievietsbonen              	/	   100gr      	/	265.00	/	20.00	/	43.00	/	1.50	   
+kikkerbil                  	/	   100gr      	/	68.00	/	16.40	/	.00	/	.30	   
+kikkererwten               	/	   100gr      	/	163.00	/	8.00	/	26.00	/	3.00	   
+kinderbiscuit              	/	   100gr      	/	396.00	/	9.00	/	72.00	/	8.00	   
+kip-kap                    	/	   100gr      	/	207.00	/	18.00	/	.00	/	15.00	   
+kip-kerriesalade           	/	   100gr      	/	280.00	/	5.50	/	8.70	/	24.80	   
+kipburger                  	/	   100gr      	/	306.00	/	14.50	/	9.90	/	23.20	   
+kipnugget - kipkantje      	/	   100gr      	/	272.00	/	17.50	/	12.20	/	17.10	   
+kippebouillion             	/	   100ml      	/	10.00	/	.60	/	2.00	/	.00	   
+kippelever                 	/	   100gr      	/	184.00	/	28.00	/	2.00	/	7.20	   
+kippenfilet                	/	   100gr      	/	111.00	/	21.00	/	.00	/	3.00	   
+kippenham                  	/	   100gr      	/	88.00	/	20.00	/	2.00	/	.00	   
+kippepoot                  	/	   100gr      	/	229.00	/	26.40	/	.00	/	13.70	   
+kiprollade                 	/	   100gr      	/	165.00	/	24.00	/	1.70	/	7.00	   
+kipschnitzel (gepaneerd)   	/	   100gr      	/	217.00	/	17.50	/	8.30	/	12.70	   
+kiri creme                 	/	   100gr      	/	341.00	/	8.50	/	2.50	/	33.00	   
+kit kat                    	/	   100gr      	/	482.00	/	5.60	/	67.50	/	21.10	   
+kiwi                       	/	     1stuk    	/	24.00	/	.00	/	6.00	/	.00	   
+klapstuk                   	/	   100gr      	/	265.00	/	34.00	/	.00	/	14.40	   
+knackebrod wasa            	/	   100gr      	/	350.00	/	11.00	/	72.00	/	2.00	   
+knackebrod (lichtgewicht)  	/	   100gr      	/	374.00	/	10.00	/	79.00	/	2.00	   
+knakworst                  	/	   100gr      	/	297.00	/	10.90	/	2.50	/	27.10	   
+knoflook                   	/	     1teentje 	/	14.00	/	.30	/	.00	/	1.40	   
+knolselderij               	/	   100gr      	/	36.00	/	2.00	/	7.00	/	.00	   
+koffie verkeerd            	/	   100gr      	/	29.00	/	2.30	/	2.80	/	1.00	   
+koffiebroodje              	/	   100gr      	/	329.00	/	7.00	/	55.00	/	9.00	   
+koffiemelk (halfvol)       	/	   100gr      	/	104.00	/	7.80	/	9.30	/	4.00	   
+koffiemelk (mager)         	/	   100gr      	/	77.00	/	7.70	/	11.20	/	.20	   
+koffiemelk (vol)           	/	   100gr      	/	152.00	/	8.40	/	10.70	/	8.40	   
+koffiemelkpoeder           	/	   100gr      	/	550.00	/	4.00	/	55.00	/	35.00	   
+koffiemelkprodukt (halfvol)	/	   100gr      	/	104.00	/	7.20	/	10.00	/	4.00	   
+koffiemelkprodukt (vol)    	/	   100gr      	/	136.00	/	7.50	/	9.50	/	7.60	   
+koffieroom                 	/	   100gr      	/	206.00	/	2.70	/	3.80	/	20.00	   
+koffiewitmaker             	/	   100gr      	/	551.00	/	4.00	/	55.00	/	35.00	   
+kokosbrood                 	/	   100gr      	/	422.00	/	4.00	/	34.00	/	30.00	   
+kokosmakaron               	/	   100gr      	/	451.00	/	4.00	/	57.00	/	23.00	   
+kokosnoot                  	/	   100gr      	/	389.00	/	4.00	/	10.00	/	37.00	   
+komkommer                  	/	   100gr      	/	8.00	/	1.00	/	1.00	/	.00	   
+komkommerspread            	/	   100gr      	/	157.00	/	1.00	/	13.50	/	11.00	   
+konijn                     	/	   100gr      	/	160.00	/	21.00	/	1.00	/	8.00	   
+koolraap                   	/	   100gr      	/	12.00	/	1.00	/	2.00	/	.00	   
+koolrabi                   	/	   100gr      	/	24.00	/	2.00	/	4.00	/	.00	   
+koolvis                    	/	   100gr      	/	72.00	/	18.00	/	.00	/	.00	   
+korstgebak                 	/	   100gr      	/	611.00	/	7.00	/	40.00	/	47.00	   
+kouseband                  	/	   100gr      	/	40.00	/	3.00	/	7.00	/	.00	   
+krab                       	/	   100gr      	/	82.00	/	16.00	/	.00	/	2.00	   
+kreeft                     	/	   100gr      	/	82.00	/	16.00	/	.00	/	2.00	   
+krenten                    	/	   100gr      	/	308.00	/	2.00	/	75.00	/	.00	   
+krentenbol                 	/	   100gr      	/	267.00	/	8.00	/	51.70	/	3.20	   
+krentenbrood               	/	   100gr      	/	255.00	/	7.00	/	50.00	/	3.00	   
+krentenbrood (volkoren)    	/	   100gr      	/	230.00	/	7.10	/	47.40	/	1.40	   
+krieken                    	/	   100gr      	/	39.00	/	.20	/	9.00	/	.20	   
+krisprol                   	/	   100gr      	/	404.00	/	12.40	/	75.00	/	6.00	   
+kroepoek                   	/	   100gr      	/	498.00	/	4.00	/	62.00	/	26.00	   
+kroket                     	/	   100gr      	/	233.00	/	10.70	/	16.90	/	13.60	   
+kruimelvlaai               	/	   100gr      	/	293.00	/	5.90	/	40.40	/	12.00	   
+kruisbessen                	/	   100gr      	/	40.00	/	1.00	/	9.00	/	.00	   
+krulandijvie               	/	   100gr      	/	13.00	/	1.80	/	.90	/	.20	   
+kumquat                    	/	   100gr      	/	42.00	/	1.10	/	7.40	/	.90	   
+kwark vruchten (mager)     	/	   100gr      	/	124.00	/	7.00	/	15.00	/	4.00	   
+kwark ( mager )            	/	   100gr      	/	64.00	/	13.00	/	3.00	/	.00	   
+kwark (vol)                	/	   100gr      	/	159.00	/	11.10	/	3.20	/	11.40	   
+kwarktaart                 	/	   100gr      	/	228.00	/	4.90	/	27.20	/	11.10	   
+lamsbout                   	/	   100gr      	/	350.00	/	25.80	/	.00	/	27.40	   
+lamsfilet                  	/	   100gr      	/	143.00	/	20.00	/	.00	/	7.00	   
+lamskarbonade              	/	   100gr      	/	350.00	/	25.80	/	.00	/	27.40	   
+lamskotelet                	/	   100gr      	/	279.00	/	18.00	/	.00	/	23.00	   
+lange vingers              	/	   100gr      	/	399.00	/	7.00	/	77.00	/	7.00	   
+langoest                   	/	   100gr      	/	84.00	/	17.20	/	1.30	/	1.10	   
+langoestine                	/	   100gr      	/	82.00	/	19.00	/	.00	/	.70	   
+lasagna. m. vlees & saus   	/	   100gr      	/	158.00	/	6.70	/	9.20	/	10.50	   
+leidse kaas 20+            	/	   100gr      	/	269.00	/	38.00	/	.00	/	13.00	   
+lekkerbekje                	/	   100gr      	/	219.00	/	24.90	/	2.10	/	12.30	   
+lever                      	/	   100gr      	/	133.00	/	20.00	/	2.00	/	5.00	   
+leverpastei                	/	   100gr      	/	317.00	/	14.00	/	.00	/	29.00	   
+leverworst                 	/	   100gr      	/	421.00	/	12.00	/	1.00	/	41.00	   
+leverworst ( saksische )   	/	   100gr      	/	384.00	/	13.00	/	2.00	/	36.00	   
+limburgse kaas             	/	   100gr      	/	281.00	/	21.00	/	2.00	/	21.00	   
+linzen ( gedroogd )        	/	   100gr      	/	32.00	/	3.00	/	5.00	/	.00	   
+linzensoep                 	/	   100gr      	/	50.00	/	1.60	/	5.10	/	2.60	   
+lion                       	/	     1stuk    	/	193.00	/	2.00	/	26.00	/	9.00	   
+loempia                    	/	   100gr      	/	176.00	/	7.00	/	18.60	/	8.20	   
+lolly                      	/	   100gr      	/	380.00	/	.00	/	95.00	/	.00	   
+lychee                     	/	   100gr      	/	68.00	/	1.00	/	16.00	/	.00	   
+maaltijdsoep               	/	   100gr      	/	63.00	/	3.00	/	6.00	/	3.00	   
+maaslander                 	/	   100gr      	/	370.00	/	25.00	/	.00	/	30.00	   
+macaroni                   	/	   100gr      	/	358.00	/	13.00	/	72.00	/	2.00	   
+madeleine                  	/	   100gr      	/	472.00	/	5.50	/	63.00	/	22.00	   
+mais                       	/	   100gr      	/	114.00	/	3.30	/	23.00	/	1.00	   
+maisgriesmeel              	/	   100gr      	/	357.00	/	8.80	/	78.00	/	1.10	   
+maiskorrels                	/	   100gr      	/	70.00	/	2.70	/	12.00	/	1.30	   
+maizena                    	/	   100gr      	/	337.00	/	.00	/	84.00	/	.10	   
+makaron                    	/	   100gr      	/	393.00	/	4.00	/	65.00	/	13.00	   
+makreel                    	/	   100gr      	/	158.00	/	17.00	/	.00	/	10.00	   
+mandarijn                  	/	     1stuk    	/	16.00	/	.00	/	4.00	/	.00	   
+mandarijnen op siroop      	/	   100gr      	/	56.00	/	.00	/	14.00	/	.00	   
+mango                      	/	     1stuk    	/	64.00	/	1.00	/	15.00	/	.00	   
+mango chutney              	/	   100gr      	/	208.00	/	.00	/	52.00	/	.00	   
+marcassin                  	/	   100gr      	/	104.00	/	21.00	/	.40	/	2.00	   
+maredsous                  	/	   100gr      	/	315.00	/	23.00	/	.50	/	24.50	   
+margarine (60-70% vet)     	/	   100gr      	/	589.00	/	.20	/	.80	/	65.00	   
+margarine (dieet)          	/	   100gr      	/	748.00	/	.20	/	.60	/	82.80	   
+margarine (gezouten)       	/	   100gr      	/	747.00	/	.00	/	.00	/	83.00	   
+marmite (gistextract)      	/	   100gr      	/	166.00	/	41.40	/	.00	/	.10	   
+mars                       	/	     1stuk    	/	267.00	/	3.00	/	39.00	/	11.00	   
+marsepein                  	/	   100gr      	/	360.00	/	8.00	/	64.00	/	8.00	   
+marsh mellows              	/	   100gr      	/	328.00	/	2.00	/	80.00	/	.00	   
+mascarpone                 	/	   100gr      	/	457.00	/	5.20	/	4.30	/	46.50	   
+matse                      	/	   100gr      	/	325.00	/	11.00	/	68.00	/	1.00	   
+mayonaise 50%              	/	     1eetlpl  	/	98.00	/	2.00	/	.00	/	10.00	   
+mayonaise 80%              	/	     1eetlpl  	/	144.00	/	.00	/	.00	/	16.00	   
+mayonaise (effi dressing)  	/	    1kofflpl  	/	47.00	/	.00	/	.50	/	5.00	   
+meergranenbrood            	/	   100gr      	/	212.00	/	8.40	/	40.50	/	1.80	   
+melk (half volle)          	/	    10cl      	/	50.00	/	4.00	/	5.00	/	1.50	   
+melk (magere)              	/	    10cl      	/	33.00	/	3.20	/	4.90	/	.10	   
+melk (volle)               	/	    10cl      	/	64.00	/	3.20	/	4.70	/	3.60	   
+meloen (honing)            	/	   100gr      	/	28.00	/	1.00	/	6.00	/	.00	   
+meloen (water)             	/	   100gr      	/	24.00	/	1.00	/	5.00	/	.00	   
+mergpijpje                 	/	   100gr      	/	443.00	/	6.60	/	49.50	/	24.30	   
+mie                        	/	   100gr      	/	94.00	/	3.10	/	19.30	/	.50	   
+mierik                     	/	   100gr      	/	63.00	/	2.80	/	12.40	/	.30	   
+mihoen                     	/	   100gr      	/	144.00	/	3.00	/	33.00	/	.00	   
+minarine alpro             	/	   100gr      	/	362.00	/	1.50	/	.00	/	39.50	   
+minestronesoep             	/	   100gr      	/	74.00	/	5.00	/	9.00	/	2.00	   
+mini boss nature           	/	   100gr      	/	120.00	/	3.50	/	18.50	/	3.50	   
+mini pizza                 	/	   100gr      	/	287.00	/	12.00	/	35.00	/	11.00	   
+minute soup                	/	     1pakje   	/	91.00	/	2.80	/	12.80	/	3.20	   
+miso                       	/	   100gr      	/	116.00	/	11.70	/	6.20	/	5.00	   
+mispel                     	/	   100gr      	/	48.00	/	.40	/	10.60	/	.40	   
+mixed pickles              	/	     1eetlpl  	/	4.00	/	.00	/	1.00	/	.00	   
+mokkataart                 	/	   100gr      	/	477.00	/	5.00	/	40.00	/	33.00	   
+monchou                    	/	   100gr      	/	332.00	/	8.50	/	1.00	/	32.70	   
+moorkop                    	/	     1stuk    	/	201.00	/	3.00	/	18.00	/	13.00	   
+mortadella                 	/	   100gr      	/	345.00	/	12.40	/	.00	/	32.80	   
+mosselen                   	/	   100gr      	/	49.00	/	10.00	/	.00	/	1.00	   
+mosterd                    	/	   100gr      	/	80.00	/	5.00	/	6.00	/	4.00	   
+moussaka                   	/	   100gr      	/	93.00	/	4.50	/	7.50	/	5.00	   
+mozzarella                 	/	   100gr      	/	299.00	/	26.50	/	1.00	/	21.00	   
+muesli                     	/	   100gr      	/	374.00	/	6.50	/	68.00	/	8.50	   
+muisjes                    	/	   100gr      	/	393.00	/	.10	/	98.20	/	.00	   
+m&m met chocolade          	/	   100gr      	/	483.00	/	4.60	/	70.50	/	20.30	   
+m&m met pinda's            	/	   100gr      	/	514.00	/	10.20	/	57.30	/	27.10	   
+nasi goreng zonder ei      	/	   100gr      	/	126.00	/	4.10	/	21.80	/	2.50	   
+nasibal                    	/	   100gr      	/	301.00	/	6.00	/	31.00	/	17.00	   
+nectarine                  	/	     1stuk    	/	50.00	/	.50	/	12.00	/	.00	   
+negerzoen                  	/	   100gr      	/	365.00	/	4.70	/	38.60	/	21.30	   
+netmeloen                  	/	   100gr      	/	24.00	/	.00	/	6.00	/	.00	   
+nogat                      	/	   100gr      	/	472.00	/	6.00	/	67.00	/	20.00	   
+nutella (choco)            	/	   100gr      	/	533.00	/	6.50	/	57.00	/	31.00	   
+oesters                    	/	   100gr      	/	65.00	/	9.00	/	5.00	/	1.00	   
+olie                       	/	     1eetlpl  	/	108.00	/	.00	/	.00	/	12.00	   
+olijven                    	/	   100gr      	/	232.00	/	6.00	/	7.00	/	20.00	   
+ontbijtkoek                	/	   100gr      	/	288.00	/	4.00	/	68.00	/	.00	   
+ontbijtkoek met noten      	/	   100gr      	/	367.00	/	8.70	/	55.50	/	12.30	   
+ontbijtspek                	/	   100gr      	/	785.00	/	5.00	/	.00	/	85.00	   
+ossehaas                   	/	   100gr      	/	189.00	/	25.60	/	1.20	/	9.10	   
+osseworst                  	/	   100gr      	/	232.00	/	25.00	/	.70	/	14.40	   
+ovenfrites                 	/	   100gr      	/	286.00	/	5.80	/	46.00	/	8.80	   
+paardenbiefstuk            	/	   100gr      	/	107.00	/	20.00	/	.00	/	3.00	   
+paardenrookvlees           	/	   100gr      	/	88.00	/	22.00	/	.00	/	.00	   
+paling                     	/	   100gr      	/	209.00	/	14.00	/	.00	/	17.00	   
+paling (gerookt)           	/	   100gr      	/	286.00	/	17.90	/	.00	/	23.80	   
+paling (gestoofd)          	/	   100gr      	/	175.00	/	16.00	/	.00	/	12.40	   
+palingworst                	/	   100gr      	/	424.00	/	12.00	/	4.00	/	40.00	   
+palmhart                   	/	   100gr      	/	36.00	/	2.10	/	5.50	/	.60	   
+pandabrood                 	/	   100gr      	/	270.00	/	14.40	/	36.40	/	7.50	   
+paneermeel                 	/	     1eetlpl  	/	37.00	/	1.00	/	6.00	/	1.00	   
+pannenkoek                 	/	   100gr      	/	194.00	/	8.30	/	29.20	/	4.90	   
+papaya                     	/	   100gr      	/	36.00	/	1.00	/	8.00	/	.00	   
+paprika (rood)             	/	   100gr      	/	48.00	/	2.00	/	10.00	/	.00	   
+paprika (groen)            	/	   100gr      	/	28.00	/	1.00	/	6.00	/	.00	   
+pap. halfvolle melk        	/	   100gr      	/	69.00	/	4.20	/	9.80	/	1.50	   
+paranoten                  	/	   100gr      	/	683.00	/	15.00	/	5.00	/	67.00	   
+parelhoen                  	/	   100gr      	/	150.00	/	23.10	/	.00	/	6.40	   
+parmazaan                  	/	   100gr      	/	375.00	/	35.60	/	.00	/	25.80	   
+parmezaanse kaas           	/	   100gr      	/	411.00	/	40.00	/	2.00	/	27.00	   
+parovita                   	/	   100gr      	/	437.00	/	10.00	/	70.00	/	13.00	   
+passendale                 	/	   100gr      	/	357.00	/	20.00	/	4.00	/	29.00	   
+passievrucht               	/	   100gr      	/	102.00	/	2.00	/	19.00	/	2.00	   
+pasta                      	/	   100gr      	/	347.00	/	12.00	/	71.30	/	1.50	   
+pastei (herta-fijn)        	/	   100gr      	/	242.00	/	15.50	/	.00	/	20.00	   
+pasteibakje                	/	   100gr      	/	655.00	/	7.00	/	42.00	/	51.00	   
+pat‚                       	/	   100gr      	/	420.00	/	11.00	/	4.00	/	40.00	   
+patrijs                    	/	   100gr      	/	115.00	/	25.00	/	.50	/	1.40	   
+paturain                   	/	   100gr      	/	364.00	/	10.00	/	.00	/	36.00	   
+peer                       	/	     1stuk    	/	52.00	/	1.00	/	12.00	/	.00	   
+pekelvlees                 	/	   100gr      	/	289.00	/	16.00	/	.00	/	25.00	   
+pennywafel                 	/	   100gr      	/	482.00	/	5.60	/	67.50	/	21.10	   
+pensen (witte)             	/	   100gr      	/	269.00	/	11.00	/	.00	/	25.00	   
+pensen (zwarte)            	/	   100gr      	/	371.00	/	16.00	/	2.50	/	33.00	   
+peperkoek                  	/	   100gr      	/	263.00	/	3.40	/	60.40	/	.90	   
+pepermunt                  	/	   100gr      	/	396.00	/	.00	/	99.00	/	.00	   
+pepernoot                  	/	   100gr      	/	489.00	/	6.10	/	68.30	/	21.30	   
+pere joseph                	/	   100gr      	/	321.00	/	22.70	/	.00	/	25.60	   
+peren op siroop            	/	   100gr      	/	60.00	/	.30	/	14.70	/	.00	   
+perenstroop                	/	   100gr      	/	226.00	/	1.90	/	54.60	/	.00	   
+peresap                    	/	   100gr      	/	35.00	/	.10	/	8.70	/	.00	   
+perzik                     	/	     1stuk    	/	46.00	/	.80	/	10.50	/	.10	   
+perziken op siroop         	/	   100gr      	/	70.00	/	.60	/	17.00	/	.00	   
+peterselie                 	/	   100gr      	/	56.00	/	4.00	/	10.00	/	.00	   
+petit beurre               	/	   100gr      	/	448.00	/	7.00	/	78.00	/	12.00	   
+petit filous yoplait       	/	   100gr      	/	128.00	/	7.60	/	13.70	/	4.80	   
+petit four                 	/	   100gr      	/	477.00	/	5.00	/	40.00	/	33.00	   
+petit gervais (calcium)    	/	   100gr      	/	142.00	/	6.00	/	16.00	/	6.00	   
+petit gervais (fruit)      	/	   100gr      	/	171.00	/	6.50	/	18.00	/	8.10	   
+petit suisse creme         	/	   100gr      	/	146.00	/	8.70	/	3.30	/	10.90	   
+piccalilly                 	/	     1eetlpl  	/	8.00	/	.00	/	2.00	/	.00	   
+pijnboompitten             	/	   100gr      	/	670.00	/	12.50	/	20.00	/	60.00	   
+pims cake                  	/	   100gr      	/	312.00	/	4.50	/	52.00	/	9.50	   
+pinda's (gezouten)         	/	   100gr      	/	625.00	/	28.80	/	8.60	/	52.80	   
+pinda's (ongezouten)       	/	   100gr      	/	629.00	/	28.50	/	12.60	/	51.60	   
+pindakaas                  	/	   100gr      	/	647.00	/	26.20	/	16.20	/	53.10	   
+pindanoten                 	/	   100gr      	/	617.00	/	26.00	/	18.00	/	49.00	   
+pistachenootjes (gepeld)   	/	   100gr      	/	591.00	/	19.00	/	5.00	/	55.00	   
+pistolet                   	/	     1stuk    	/	104.00	/	3.00	/	23.00	/	.00	   
+pittabroodje               	/	   100gr      	/	257.00	/	8.60	/	53.00	/	1.20	   
+pizza                      	/	   100gr      	/	224.00	/	7.70	/	23.50	/	11.00	   
+poestasaus                 	/	   100gr      	/	100.00	/	2.00	/	23.00	/	.00	   
+pomodoro                   	/	   100gr      	/	41.00	/	2.00	/	6.00	/	1.00	   
+pompelmoes                 	/	     1stuk    	/	72.00	/	1.00	/	17.00	/	.00	   
+pompoen                    	/	   100gr      	/	36.00	/	1.00	/	8.00	/	.00	     
+poon (gekookt)             	/	   100gr      	/	113.00	/	17.00	/	.00	/	5.00	   
+popcorn                    	/	   100gr      	/	376.00	/	13.00	/	72.00	/	4.00	   
+port salut                 	/	   100gr      	/	314.00	/	21.00	/	.00	/	25.50	   
+postelein (gekookt)        	/	   100gr      	/	16.00	/	2.00	/	2.00	/	.00	   
+postelijn                  	/	   100gr      	/	26.00	/	1.50	/	4.30	/	.30	   
+prei                       	/	   100gr      	/	28.00	/	2.00	/	5.00	/	.00	   
+prei- en hamsalade         	/	   100gr      	/	271.00	/	2.30	/	8.50	/	25.30	   
+prince chocolade (lu)      	/	     1stuk    	/	108.00	/	1.40	/	15.70	/	4.40	   
+prinsessenbonen            	/	   100gr      	/	32.00	/	3.00	/	5.00	/	.00	   
+pro 80%                    	/	   100gr      	/	359.00	/	80.00	/	7.50	/	1.00	   
+proteine blast             	/	     1stuk    	/	136.00	/	10.20	/	17.70	/	2.70	   
+pruim                      	/	     1stuk    	/	24.00	/	.00	/	6.00	/	.00	   
+pruimen op siroop          	/	   100gr      	/	68.00	/	.00	/	17.00	/	.00	   
+pruimen (geweekt)          	/	   100gr      	/	122.00	/	1.30	/	29.30	/	.00	   
+quorn                      	/	   100gr      	/	86.00	/	12.50	/	1.80	/	3.20	   
+raap                       	/	   100gr      	/	16.00	/	.10	/	4.00	/	.00	   
+rabarber                   	/	     1stuk    	/	8.00	/	.00	/	2.00	/	.00	   
+rabarbermoes               	/	   100gr      	/	72.00	/	1.00	/	17.00	/	.00	   
+raclette fonduekaas        	/	   100gr      	/	356.00	/	25.60	/	.00	/	28.20	   
+radijsjes                  	/	   100gr      	/	20.00	/	1.00	/	4.00	/	.00	   
+rambol                     	/	   100gr      	/	282.00	/	13.00	/	8.00	/	22.00	   
+rauwe ham                  	/	   100gr      	/	305.00	/	20.00	/	.00	/	25.00	   
+rauwkost (bladgroente)     	/	   100gr      	/	13.00	/	1.20	/	2.10	/	.00	   
+ravioli                    	/	   100gr      	/	113.00	/	5.00	/	12.00	/	5.00	   
+ree                        	/	   100gr      	/	118.00	/	21.40	/	.00	/	3.60	   
+reuzel                     	/	   100gr      	/	900.00	/	.00	/	.00	/	100.00	   
+riblap                     	/	   100gr      	/	265.00	/	34.00	/	.00	/	14.40	   
+rice crispies              	/	   100gr      	/	377.00	/	6.00	/	86.00	/	1.00	   
+ricotta                    	/	   100gr      	/	196.00	/	9.50	/	3.50	/	16.00	   
+rijst (basmati)            	/	   100gr      	/	347.00	/	7.00	/	78.50	/	.50	   
+rijst (zilvervlies)        	/	   100gr      	/	369.00	/	8.90	/	78.00	/	2.40	   
+rijstevlaai                	/	   100gr      	/	255.00	/	7.50	/	31.70	/	10.90	   
+rijstpap (danone)          	/	   100gr      	/	137.00	/	3.20	/	23.20	/	3.50	   
+rijsttaart                 	/	   100gr      	/	249.00	/	5.30	/	38.00	/	8.40	   
+rijstwafel                 	/	     1stuk    	/	26.00	/	.50	/	6.00	/	.00	   
+rivella light              	/	   100ml      	/	4.00	/	.00	/	1.00	/	.00	   
+rode bessen                	/	   100gr      	/	24.00	/	1.00	/	5.00	/	.00	   
+rode biet                  	/	   100gr      	/	37.00	/	1.50	/	7.60	/	.10	   
+rode kool                  	/	   100gr      	/	28.00	/	2.00	/	5.00	/	.00	   
+rodekool met appeltjes     	/	   100gr      	/	50.00	/	1.10	/	9.10	/	1.00	   
+roggebrood (donker)        	/	   100gr      	/	189.00	/	5.00	/	40.00	/	1.00	   
+roggebrood (licht)         	/	   100gr      	/	197.00	/	7.00	/	40.00	/	1.00	   
+rolmops                    	/	     1stuk    	/	125.00	/	10.00	/	1.00	/	9.00	   
+rondo                      	/	   100gr      	/	435.00	/	5.50	/	61.10	/	18.80	   
+rookvlees                  	/	   100gr      	/	152.00	/	22.90	/	.60	/	6.50	   
+rookworst                  	/	   100gr      	/	338.00	/	13.00	/	4.00	/	30.00	   
+rookworst (light)          	/	   100gr      	/	248.00	/	16.00	/	1.00	/	20.00	   
+roomijs                    	/	   100gr      	/	159.00	/	4.00	/	20.00	/	7.00	   
+roomijs caramel            	/	   100ml      	/	121.00	/	1.50	/	12.00	/	7.50	   
+roomijs pecan caramel      	/	   100ml      	/	104.00	/	1.50	/	11.00	/	6.00	   
+roomijs stracciatella      	/	   100ml      	/	117.00	/	1.50	/	12.00	/	7.00	   
+roomkaas (60+)             	/	   100gr      	/	422.00	/	20.00	/	.00	/	38.00	   
+roomsoes                   	/	   100gr      	/	248.00	/	4.20	/	33.00	/	11.00	   
+roquefort                  	/	   100gr      	/	359.00	/	19.00	/	1.00	/	31.00	   
+rosbief                    	/	   100gr      	/	115.00	/	22.00	/	.00	/	3.00	   
+rosti                      	/	   100gr      	/	144.00	/	1.90	/	22.80	/	5.10	   
+roti (alleen koek)         	/	   100gr      	/	244.00	/	8.20	/	43.30	/	4.30	   
+roti (kip)                 	/	   100gr      	/	168.00	/	12.10	/	20.90	/	4.00	   
+rozebottelsiroop           	/	   100gr      	/	228.00	/	.00	/	57.00	/	.00	   
+rozijnen                   	/	   100gr      	/	276.00	/	2.00	/	64.80	/	1.00	   
+rozijnenbrood              	/	   100gr      	/	255.00	/	7.00	/	50.00	/	3.00	   
+rubens                     	/	   100gr      	/	327.00	/	24.10	/	.00	/	25.60	   
+rundbouillion              	/	   100ml      	/	1.00	/	.00	/	.30	/	.00	   
+rundergehakt               	/	   100gr      	/	197.00	/	20.00	/	.00	/	13.00	   
+runderlappen (vet)         	/	   100gr      	/	278.00	/	31.00	/	.70	/	16.90	   
+runderpoelet               	/	   100gr      	/	195.00	/	30.80	/	.50	/	7.80	   
+runderrollade              	/	   100gr      	/	167.00	/	28.30	/	.80	/	5.70	   
+rundertong                 	/	   100gr      	/	210.00	/	16.00	/	.50	/	16.00	   
+saint paulin               	/	   100gr      	/	329.00	/	25.00	/	1.00	/	25.00	   
+salami                     	/	   100gr      	/	414.00	/	18.00	/	.00	/	38.00	   
+salami (beleg)             	/	   100gr      	/	522.00	/	18.00	/	.00	/	50.00	   
+salami (zwan)              	/	   100gr      	/	487.00	/	17.60	/	.00	/	46.30	   
+sambal oelek               	/	   100gr      	/	20.00	/	3.00	/	2.00	/	.00	   
+sandwich                   	/	     1stuk    	/	159.00	/	5.00	/	28.00	/	3.00	   
+sandwichspread             	/	   100gr      	/	228.00	/	2.00	/	14.50	/	18.00	   
+santane cottage cheese     	/	   100gr      	/	105.00	/	11.00	/	4.00	/	5.00	   
+santane smeerkaas ham      	/	   100gr      	/	190.00	/	14.50	/	8.30	/	11.00	   
+santane smeerkaas natuur   	/	   100gr      	/	190.00	/	14.50	/	8.30	/	11.00	   
+santane tilsit             	/	   100gr      	/	281.00	/	32.00	/	.10	/	17.00	   
+santen. kokosmelk          	/	   100gr      	/	346.00	/	4.00	/	6.00	/	34.00	   
+sardines (blik)            	/	   100gr      	/	226.00	/	24.00	/	1.00	/	14.00	   
+sate kip-met saus          	/	   100gr      	/	187.00	/	16.00	/	6.00	/	11.00	   
+sate varkens-met saus      	/	   100gr      	/	226.00	/	15.10	/	6.80	/	15.40	   
+satesaus                   	/	   100gr      	/	310.00	/	8.50	/	18.50	/	22.50	   
+saucijs                    	/	   100gr      	/	308.00	/	22.20	/	.90	/	24.00	   
+saucijzebroodje            	/	   100gr      	/	446.00	/	11.00	/	33.00	/	30.00	   
+saucisson                  	/	   100gr      	/	375.00	/	15.00	/	.70	/	34.70	   
+saus napoletana            	/	   100gr      	/	208.00	/	.00	/	52.00	/	.00	   
+sausijsjes (varken)        	/	   100gr      	/	252.00	/	18.00	/	.00	/	20.00	   
+scampi                     	/	   100gr      	/	90.00	/	18.00	/	.00	/	2.00	   
+schapekaas                 	/	   100gr      	/	341.00	/	13.90	/	8.90	/	27.80	   
+schapekaas (mager)         	/	   100gr      	/	318.00	/	18.40	/	7.10	/	24.10	   
+schapentong                	/	   100gr      	/	187.00	/	13.50	/	.00	/	14.80	   
+schapevlees                	/	   100gr      	/	293.00	/	17.00	/	.00	/	25.00	   
+schar (gebakken)           	/	   100gr      	/	118.00	/	21.50	/	.60	/	3.30	   
+schaschliksaus             	/	   100gr      	/	99.00	/	.70	/	24.00	/	.10	   
+schelvis                   	/	   100gr      	/	76.00	/	18.00	/	.00	/	.50	   
+schelvislever              	/	   100gr      	/	408.00	/	7.00	/	.00	/	42.30	   
+schnitzel (met kaas)       	/	   100gr      	/	324.00	/	18.00	/	18.00	/	20.00	   
+schol                      	/	   100gr      	/	68.00	/	17.00	/	.00	/	.10	   
+schorseneren               	/	   100gr      	/	68.00	/	1.00	/	16.00	/	.00	   
+schouderham                	/	   100gr      	/	194.00	/	16.00	/	1.00	/	14.00	   
+schuimpje                  	/	   100gr      	/	380.00	/	.00	/	95.00	/	.00	   
+seitan                     	/	   100gr      	/	90.00	/	19.60	/	3.00	/	.00	   
+selderijsalade             	/	   100gr      	/	334.00	/	1.00	/	6.00	/	34.00	   
+selderstengel              	/	   100gr      	/	21.00	/	1.20	/	3.60	/	.20	   
+sesamzaad                  	/	   100gr      	/	614.00	/	26.00	/	6.00	/	54.00	   
+shoarma m. broodje         	/	   100gr      	/	236.00	/	10.80	/	14.70	/	14.90	   
+shoarmarol                 	/	   100gr      	/	176.00	/	7.00	/	18.60	/	8.20	   
+shoarmavlees               	/	   100gr      	/	293.00	/	17.00	/	.00	/	25.00	   
+sinaasappel                	/	      1stuk    	/	48.00	/	1.00	/	11.00	/	.00	   
+sjalot                     	/	   100gr      	/	75.00	/	1.30	/	17.00	/	.20	   
+sla                        	/	   100gr      	/	10.00	/	.50	/	2.00	/	.00	   
+slagroom (geklopt)         	/	   100gr      	/	349.00	/	2.00	/	12.70	/	32.30	   
+slagroom (ongeklopt)       	/	   100gr      	/	344.00	/	2.20	/	3.00	/	35.90	   
+slagroomsoesje             	/	   100gr      	/	309.00	/	4.40	/	13.50	/	26.40	   
+slagroomtaart              	/	   100gr      	/	332.00	/	5.50	/	30.00	/	20.00	   
+slakken                    	/	   100gr      	/	81.00	/	16.00	/	2.00	/	1.00	   
+slasaus 25%                	/	   100gr      	/	279.00	/	.70	/	11.00	/	25.80	   
+slasaus 50%                	/	   100gr      	/	478.00	/	1.00	/	6.00	/	50.00	   
+slasaus. 05% olie of light 	/	   100gr      	/	93.00	/	.10	/	12.00	/	5.00	   
+slavink                    	/	   100gr      	/	298.00	/	21.10	/	.00	/	23.80	   
+smarties                   	/	   100gr      	/	483.00	/	4.60	/	70.50	/	20.30	   
+smeerkaas 20+              	/	   100gr      	/	185.00	/	18.00	/	8.00	/	9.00	   
+smeerkaas 30+              	/	   100gr      	/	219.00	/	20.00	/	1.00	/	15.00	   
+smeerkaas 40+              	/	   100gr      	/	251.00	/	19.00	/	1.00	/	19.00	   
+smeerkaas (volvet)         	/	   100gr      	/	269.00	/	19.00	/	1.00	/	21.00	   
+snickers                   	/	     1stuk    	/	301.00	/	6.00	/	31.00	/	17.00	   
+snijbiet (gekookt)         	/	   100gr      	/	24.00	/	3.00	/	3.00	/	.00	   
+snijbonen                  	/	   100gr      	/	16.00	/	2.00	/	2.00	/	.00	   
+snoek                      	/	   100gr      	/	82.00	/	18.20	/	.00	/	1.00	   
+soep                       	/	   100gr      	/	29.00	/	1.00	/	4.00	/	1.00	   
+soepgroenten               	/	   100gr      	/	32.00	/	2.00	/	6.00	/	.00	   
+soepstengel                	/	   100gr      	/	360.00	/	14.00	/	67.00	/	4.00	   
+sojabonen                  	/	   100gr      	/	171.00	/	15.20	/	10.40	/	7.60	   
+sojabrokjes                	/	   100gr      	/	114.00	/	17.20	/	10.60	/	.30	   
+sojadessert choco (alpro)  	/	   100gr      	/	81.00	/	3.00	/	13.10	/	1.80	   
+sojadessert vanille (alpro)	/	   100gr      	/	81.00	/	3.00	/	13.10	/	1.80	   
+sojamelk                   	/	   100gr      	/	42.00	/	3.60	/	1.00	/	2.60	   
+sojasaus                   	/	   100gr      	/	120.00	/	12.00	/	18.00	/	.00	   
+sojascheuten               	/	   100gr      	/	31.00	/	2.00	/	4.60	/	.50	   
+spaghetti                  	/	   100gr      	/	346.00	/	12.00	/	71.00	/	1.50	   
+spaghetti (volkoren)       	/	   100gr      	/	332.00	/	13.50	/	64.00	/	2.50	   
+sparerib                   	/	   100gr      	/	308.00	/	22.20	/	.90	/	24.00	   
+speculaas                  	/	   100gr      	/	493.00	/	5.20	/	73.00	/	20.00	   
+spek (gezouten)            	/	   100gr      	/	522.00	/	10.60	/	.00	/	53.30	   
+spekkie                    	/	   100gr      	/	352.00	/	6.00	/	82.00	/	.00	   
+sperziebonen (gekookt)     	/	   100gr      	/	24.00	/	2.30	/	3.80	/	.00	   
+spinazie                   	/	   100gr      	/	24.00	/	3.00	/	3.00	/	.00	   
+spinazie a la creme        	/	   100gr      	/	68.00	/	3.00	/	5.00	/	4.00	   
+spirelli                   	/	   100gr      	/	349.00	/	12.00	/	72.00	/	1.40	   
+spitskool (rauw)           	/	   100gr      	/	37.00	/	3.00	/	4.00	/	1.00	   
+sprits                     	/	   100gr      	/	539.00	/	5.50	/	58.70	/	31.40	   
+sprot (gebakken)           	/	   100gr      	/	334.00	/	21.60	/	3.00	/	26.20	   
+spruiten                   	/	   100gr      	/	53.00	/	4.00	/	7.00	/	1.00	   
+stilton                    	/	   100gr      	/	464.00	/	26.00	/	.00	/	40.00	   
+stokbrood                  	/	   100gr      	/	259.00	/	8.10	/	52.00	/	2.10	   
+strooiaroma                	/	   100gr      	/	1.00	/	.20	/	.20	/	.00	   
+stroop                     	/	   100gr      	/	288.00	/	.00	/	72.00	/	.00	   
+stroopwafel                	/	     1stuk    	/	136.00	/	1.00	/	15.00	/	8.00	   
+struisvogelsteak           	/	   100gr      	/	108.00	/	21.00	/	.00	/	2.70	   
+studentenhaver             	/	   100gr      	/	468.00	/	8.80	/	35.30	/	32.40	   
+sucadelappen               	/	   100gr      	/	248.00	/	33.00	/	.00	/	13.00	   
+suiker                     	/	   100gr      	/	400.00	/	.00	/	100.00	/	.00	   
+suikerbrood                	/	   100gr      	/	294.00	/	6.10	/	64.00	/	1.50	   
+suikerklontje              	/	   100gr      	/	400.00	/	.00	/	100.00	/	.00	   
+suikermeloen               	/	   100gr      	/	28.00	/	.90	/	6.30	/	.00	   
+sultana                    	/	   100gr      	/	378.00	/	6.60	/	72.80	/	6.80	   
+taai-taai                  	/	   100gr      	/	263.00	/	3.40	/	60.40	/	.90	   
+taartbodem (groot 22 cm)   	/	   100gr      	/	351.00	/	8.00	/	73.00	/	3.00	   
+taco shells (old el paso)  	/	   100gr      	/	478.00	/	7.80	/	60.80	/	22.80	   
+tagliatelle                	/	   100gr      	/	373.00	/	14.10	/	70.80	/	3.70	   
+tahin                      	/	   100gr      	/	553.00	/	21.90	/	.10	/	51.70	   
+tahoe                      	/	   100gr      	/	112.00	/	11.60	/	1.00	/	6.90	   
+taksi                      	/	   100gr      	/	51.00	/	.90	/	11.80	/	.10	   
+tamari                     	/	   100gr      	/	102.00	/	15.00	/	10.00	/	.30	   
+tartaar                    	/	   100gr      	/	189.00	/	25.60	/	1.20	/	9.10	   
+tarwebrood                 	/	   100gr      	/	250.00	/	9.50	/	45.10	/	3.50	   
+tarwekiemen                	/	   100gr      	/	287.00	/	27.00	/	20.00	/	11.00	   
+taug‚                      	/	   100gr      	/	41.00	/	5.00	/	3.00	/	1.00	   
+tempe                      	/	   100gr      	/	141.00	/	10.80	/	8.00	/	7.30	   
+theeworst                  	/	   100gr      	/	539.00	/	10.00	/	1.00	/	55.00	   
+tjaptjoi                   	/	   100gr      	/	113.00	/	8.60	/	3.30	/	7.30	   
+toffee                     	/	   100gr      	/	445.00	/	2.00	/	71.00	/	17.00	   
+tofu                       	/	   100gr      	/	67.00	/	8.00	/	2.00	/	3.00	   
+tomate-groentesap          	/	   100gr      	/	20.00	/	1.00	/	4.00	/	.00	   
+tomaten                    	/	   100gr      	/	16.00	/	1.00	/	3.00	/	.00	   
+tomaten-(curry) ketchup    	/	   100gr      	/	92.00	/	.90	/	22.20	/	.00	   
+tomatenpuree               	/	   100gr      	/	77.00	/	4.60	/	13.60	/	.50	   
+tomatesap                  	/	   100gr      	/	18.00	/	1.00	/	3.50	/	.00	   
+tompouce                   	/	   100gr      	/	286.00	/	3.80	/	36.50	/	13.90	   
+tong (varken)              	/	   100gr      	/	227.00	/	15.10	/	.50	/	18.30	   
+tong (gebakken)            	/	   100gr      	/	194.00	/	22.00	/	2.00	/	10.90	   
+tong (gekookt)             	/	   100gr      	/	105.00	/	23.00	/	1.00	/	1.00	   
+tongfilets                 	/	   100gr      	/	72.00	/	18.00	/	.00	/	.00	   
+tong. kalfs-. runder-      	/	   100gr      	/	188.00	/	17.30	/	.00	/	13.20	   
+tonijn in olie             	/	   100gr      	/	228.00	/	21.00	/	.00	/	16.00	   
+tonijn, eigen nat          	/	   100gr      	/	113.00	/	27.00	/	.00	/	.50	   
+toostje                    	/	   100gr      	/	359.00	/	14.00	/	67.00	/	4.00	   
+topping (opgeklopt)        	/	   100gr      	/	216.00	/	4.00	/	23.00	/	12.00	   
+tosti                      	/	     1stuk    	/	232.00	/	9.00	/	22.00	/	12.00	   
+tuinbonen (gekookt)        	/	   100gr      	/	36.00	/	5.00	/	4.00	/	.00	   
+tuinkers                   	/	   100gr      	/	40.00	/	4.20	/	4.10	/	.70	   
+tussendoorbiscuit (chocola)	/	   100gr      	/	451.00	/	11.50	/	62.00	/	17.50	   
+tussendoorbiscuit (fruit)  	/	   100gr      	/	394.00	/	8.50	/	71.00	/	8.50	   
+tussendoorbiscuit (krenten)	/	   100gr      	/	373.00	/	9.00	/	73.00	/	5.00	   
+tuttifrutti (geweekt)      	/	   100gr      	/	98.00	/	1.00	/	23.50	/	.00	   
+tv-worstjes (zwan)         	/	   100gr      	/	178.00	/	9.00	/	4.00	/	14.00	   
+tweedrank                  	/	   100gr      	/	40.00	/	.20	/	9.90	/	.00	   
+twix                       	/	     1stuk    	/	277.00	/	3.00	/	37.00	/	13.00	   
+ui                         	/	   100gr      	/	44.00	/	1.00	/	10.00	/	.00	   
+uiensoep (franse)          	/	   100gr      	/	62.00	/	3.00	/	8.00	/	2.00	   
+uitsmijter ham (2 eieren)  	/	   100gr      	/	249.00	/	12.80	/	16.30	/	14.70	   
+uitsmijter kaas (2 eieren) 	/	   100gr      	/	284.00	/	13.60	/	16.20	/	18.30	   
+umer                       	/	   100gr      	/	65.00	/	6.50	/	3.00	/	3.00	   
+vanilleijs                 	/	   100gr      	/	187.00	/	3.20	/	25.50	/	8.00	   
+vanillepudding             	/	   100gr      	/	105.00	/	4.50	/	19.00	/	1.30	   
+vanillevla (mager)         	/	   100gr      	/	67.00	/	3.50	/	13.00	/	.10	   
+vanillevla (vol)           	/	   100gr      	/	75.00	/	2.90	/	10.10	/	2.60	   
+varkensfilet               	/	   100gr      	/	178.00	/	31.30	/	.00	/	5.80	   
+varkenshaas                	/	   100gr      	/	147.00	/	27.60	/	.40	/	3.90	   
+varkenskotelet             	/	   100gr      	/	336.00	/	15.40	/	.00	/	30.50	   
+varkenslap (mager)         	/	   100gr      	/	172.00	/	30.20	/	.20	/	5.60	   
+varkenslap (vet)           	/	   100gr      	/	305.00	/	22.00	/	.70	/	23.90	   
+varkensoester              	/	   100gr      	/	147.00	/	27.60	/	.40	/	3.90	   
+varkensreuzel              	/	   100gr      	/	898.00	/	.10	/	.00	/	99.70	   
+varkensschnitsel           	/	   100gr      	/	156.00	/	21.00	/	.00	/	8.00	   
+varkensschouderlap         	/	   100gr      	/	272.00	/	27.60	/	.00	/	18.00	   
+varkensvlees (mager)       	/	   100gr      	/	161.00	/	20.00	/	.00	/	9.00	   
+vegetarische groenteschijf 	/	   100gr      	/	133.00	/	3.50	/	12.80	/	7.50	   
+vegetarische hamburger     	/	   100gr      	/	159.00	/	17.50	/	9.80	/	5.50	   
+vegetarische kebab         	/	   100gr      	/	150.00	/	18.50	/	7.70	/	5.00	   
+vegetarische schnitzel     	/	   100gr      	/	272.00	/	15.50	/	14.40	/	17.00	   
+veldsla                    	/	   100gr      	/	13.00	/	1.80	/	.70	/	.40	   
+venkel                     	/	   100gr      	/	36.00	/	2.00	/	7.00	/	.00	   
+vetarme geraspte kaas      	/	   100gr      	/	280.00	/	29.50	/	.10	/	18.00	   
+viennetta                  	/	   100ml      	/	155.00	/	2.00	/	12.00	/	11.00	   
+vietnamese loempia         	/	   100gr      	/	204.00	/	7.40	/	21.90	/	9.60	   
+Vifit calcimel             	/	   100ml      	/	65.00	/	3.00	/	11.00	/	1.00	   
+vijgen (gedroogd)          	/	   100gr      	/	228.00	/	4.00	/	53.00	/	.00	   
+vijgen (gedroogd)          	/	   100gr      	/	273.00	/	4.00	/	62.00	/	1.00	   
+vijgen (vers)              	/	   100gr      	/	63.00	/	.90	/	13.00	/	.80	   
+vinaigrettesaus            	/	   100gr      	/	532.00	/	.20	/	.00	/	59.00	   
+visburger                  	/	   100gr      	/	238.00	/	16.40	/	13.90	/	13.00	   
+vissalade                  	/	   100gr      	/	276.00	/	7.00	/	6.90	/	24.50	   
+visschnitzel               	/	   100gr      	/	238.00	/	16.40	/	13.90	/	13.00	   
+vissticks                  	/	   100gr      	/	167.00	/	12.00	/	14.00	/	7.00	   
+vitabis                    	/	   100gr      	/	417.00	/	8.60	/	76.20	/	8.60	   
+vitalinea sinaas -chocolade	/	     1reep    	/	116.00	/	1.10	/	21.00	/	3.00	   
+vleessaus uit pakje        	/	   100gr      	/	76.00	/	1.70	/	7.20	/	4.50	   
+volkoren biscuit           	/	   100gr      	/	451.00	/	9.00	/	68.00	/	16.00	   
+volkorenbrood              	/	   100gr      	/	211.00	/	8.40	/	40.50	/	1.80	   
+vruchten op siroop         	/	   100gr      	/	76.00	/	.40	/	18.70	/	.00	   
+vruchtenhagelslag          	/	   100gr      	/	393.00	/	.10	/	98.20	/	.00	   
+vruchtenkoekje             	/	   100gr      	/	292.00	/	.00	/	73.00	/	.00	   
+vruchtenlimonade           	/	   100gr      	/	39.00	/	.00	/	9.80	/	.00	   
+vruchtensaus               	/	   100gr      	/	160.00	/	.00	/	40.00	/	.00	   
+vruchtentaart              	/	   100gr      	/	264.00	/	3.70	/	36.30	/	11.60	   
+vruchtenvlaai              	/	   100gr      	/	231.00	/	3.60	/	37.40	/	7.50	   
+vruchtesap                 	/	   100gr      	/	41.00	/	.00	/	10.10	/	.00	   
+wafel (choco)              	/	   100gr      	/	472.00	/	5.00	/	59.00	/	24.00	   
+wafel (suiker)             	/	   100gr      	/	467.00	/	5.00	/	60.00	/	23.00	   
+wafels                     	/	     1stuk    	/	177.00	/	3.00	/	21.00	/	9.00	   
+walnoten                   	/	   100gr      	/	659.00	/	15.00	/	8.00	/	63.00	   
+watergruwel                	/	   100gr      	/	60.00	/	1.00	/	14.00	/	.00	   
+waterkers                  	/	   100gr      	/	21.00	/	1.60	/	2.90	/	.30	   
+watermeloen                	/	   100gr      	/	36.00	/	1.00	/	8.00	/	.00	   
+weense worstjes (zwan)     	/	   100gr      	/	119.00	/	10.00	/	4.00	/	7.00	   
+whey proteine              	/	   100gr      	/	382.00	/	81.50	/	11.70	/	1.00	   
+wienerschnitzel            	/	   100gr      	/	188.00	/	20.10	/	6.30	/	9.20	   
+wijting                    	/	   100gr      	/	77.00	/	18.00	/	.00	/	.60	   
+winegums                   	/	   100gr      	/	204.00	/	1.00	/	50.00	/	.00	   
+wit waterbrood             	/	   100gr      	/	259.00	/	8.10	/	52.00	/	2.10	   
+witloof                    	/	   100gr      	/	12.00	/	1.00	/	2.00	/	.00	   
+witte bonen                	/	   100gr      	/	334.00	/	21.00	/	58.00	/	2.00	   
+witte bonen in tomatensaus 	/	   100gr      	/	75.00	/	5.20	/	12.70	/	.40	   
+witte kool                 	/	   100gr      	/	24.00	/	1.40	/	4.20	/	.20	   
+wittebrood (melk)          	/	   100gr      	/	270.00	/	9.70	/	51.30	/	2.90	   
+wittekool (gekookt)        	/	   100gr      	/	11.00	/	.90	/	1.80	/	.00	   
+wittekool (rauw)           	/	   100gr      	/	24.00	/	2.00	/	4.00	/	.00	   
+wokkels                    	/	   100gr      	/	473.00	/	3.00	/	68.00	/	21.00	   
+worstebroodje              	/	   100gr      	/	395.00	/	13.00	/	25.00	/	27.00	   
+wortelen                   	/	   100gr      	/	32.00	/	1.00	/	7.00	/	.00	   
+yoghurt bio nature         	/	   100gr      	/	68.00	/	3.80	/	5.50	/	3.40	   
+yoghurt (danone)           	/	   100gr      	/	103.00	/	3.60	/	16.00	/	2.80	   
+yoghurt (halfvol)          	/	   100gr      	/	50.00	/	4.30	/	4.70	/	1.50	   
+yoghurt (light met fruit)  	/	   100gr      	/	43.00	/	4.00	/	6.00	/	.40	   
+yoghurt (mager met fruit)  	/	   100gr      	/	65.00	/	3.60	/	12.40	/	.10	   
+yoghurt (mager)            	/	   100gr      	/	42.00	/	4.00	/	5.00	/	.70	   
+yoghurt (mager)            	/	   100gr      	/	33.00	/	4.00	/	4.00	/	.10	   
+yoghurt (vol met fruit)    	/	   100gr      	/	93.00	/	4.00	/	14.20	/	2.30	   
+yoghurt (vol)              	/	   100gr      	/	56.00	/	3.40	/	3.50	/	3.20	   
+yoghurtdrank               	/	   100gr      	/	66.00	/	3.20	/	13.30	/	.00	   
+yogonaise                  	/	   100gr      	/	276.00	/	.80	/	12.00	/	25.00	   
+zalm (gerookt)             	/	   100gr      	/	136.00	/	25.00	/	.00	/	4.00	   
+zalm in blik (rode)        	/	   100gr      	/	215.00	/	19.00	/	.00	/	15.50	   
+zalm in blik (roze)        	/	   100gr      	/	160.00	/	23.00	/	.00	/	7.50	   
+zalmfilet                  	/	   100gr      	/	206.00	/	20.00	/	.00	/	14.00	   
+zemelen                    	/	   100gr      	/	218.00	/	14.00	/	27.00	/	6.00	   
+zemelkoek                  	/	     1stuk    	/	52.00	/	1.40	/	9.10	/	1.10	   
+zilveruien (zoetzuur)      	/	   100gr      	/	28.00	/	.00	/	7.00	/	.00	   
+zonnebloempitten           	/	   100gr      	/	632.00	/	18.00	/	13.00	/	56.50	   
+zout biscuitje             	/	   100gr      	/	502.00	/	7.00	/	51.00	/	30.00	   
+zout koekje                	/	   100gr      	/	611.00	/	7.00	/	40.00	/	47.00	   
+zout stokje                	/	   100gr      	/	370.00	/	12.00	/	67.00	/	6.00	   
+zure room                  	/	   100gr      	/	203.00	/	2.70	/	3.20	/	20.00	   
+zuring                     	/	   100gr      	/	25.00	/	2.60	/	2.60	/	.50	   
+zuurkool                   	/	   100gr      	/	24.00	/	2.00	/	4.00	/	.00	   
+zuurkoolstamppot           	/	   100gr      	/	52.00	/	1.90	/	10.90	/	.10	   
+zuurtje                    	/	   100gr      	/	380.00	/	.00	/	95.00	/	.00	   
+zwarte bessen              	/	   100gr      	/	40.00	/	2.00	/	8.00	/	.00	   
+zwitserse strooikaas       	/	   100gr      	/	128.00	/	32.00	/	.00	/	.00	
