@@ -1,9 +1,0 @@
-JavaFX-application which counts calories
-
-The application contains a set of foods(e.g. apple, cookie).
-Each type of food contains an amount of calories, fat, carbohydrates and protein.
-These can be used to calculate totals
-
-The calculator also calculates the necessary amount of cal, carbs, fat, prot
-based on a person's age, weight, height, activity level and sex.
-
